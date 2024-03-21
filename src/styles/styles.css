@@ -1,0 +1,5 @@
+@media screen and (max-width: 767px) {
+  .header-nav-hide {
+    transform: translateY(200%);
+  }
+}

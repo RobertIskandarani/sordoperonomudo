@@ -1,5 +1,5 @@
 ---
-import Header from '../components/Header.astro';
+import Header from '../components/Header';
 
 interface Props {
   title: string;
@@ -29,7 +29,7 @@ const { title } = Astro.props;
     <title>{title}</title>
   </head>
   <body>
-    <Header />
+    <Header client:visible />
     <slot />
   </body>
 </html>
@@ -38,8 +38,8 @@ const { title } = Astro.props;
     --background-color: #fff5e5;
     --blue: #83a9f0;
     --red: #df5e3d;
-    --yellow: #F9B702;
-	--ft-title: 'Otomanopee One';
+    --yellow: #f9b702;
+    --ft-title: 'Otomanopee One';
     --ft-basic: 'Montserrat';
   }
   html {
@@ -53,5 +53,9 @@ const { title } = Astro.props;
   body {
     margin: 0;
     padding: 0;
+    width: 100vw;
+    min-height: 100vh;
+    overflow-x: hidden;
   }
 </style>
+../components/Header.tsx

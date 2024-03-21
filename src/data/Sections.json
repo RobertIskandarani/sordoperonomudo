@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Episodios",
+    "link": "episodios",
+    "color": "blue"
+  },
+  {
+    "title": "Categorías",
+    "link": "categorías",
+    "color": "red"
+  },
+  {
+    "title": "Rutas de Escucha",
+    "link": "rutas_de_escucha",
+    "color": "yellow"
+  },
+  {
+    "title": "Participar",
+    "link": "participar",
+    "color": "red"
+  },
+  {
+    "title": "Apoyar",
+    "link": "apoyar",
+    "color": "blue"
+  }
+]
