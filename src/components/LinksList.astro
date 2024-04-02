@@ -6,25 +6,37 @@ import SpotifyIcon from './icons/SpotifyIcon';
 import YoutubeIcon from './icons/YoutubeIcon';
 ---
 
-<ul class='flex flex-row gap-8'>
+<ul class='flex flex-row gap-8 flex-wrap'>
   <li class='flex'>
     <a href='' class='rounded-full'>
-      <SpotifyIcon className='w-12 h-12' />
+      <SpotifyIcon
+        className='w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 transition-all duration-300'
+      />
     </a>
   </li>
   <li class='flex'>
-    <a class='rounded-full' href=''> <YoutubeIcon className='w-12 h-12' /></a>
+    <a class='rounded-full' href=''>
+      <YoutubeIcon
+        className='w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 transition-all duration-300'
+      /></a
+    >
     <li class='flex'>
       <a class='rounded-full' href=''>
-        <GooglePodcastIcon className='w-12 h-12' /></a
+        <GooglePodcastIcon
+          className='w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 transition-all duration-300'
+        /></a
       >
       <li class='flex'>
         <a class='rounded-full' href=''>
-          <AppleMusicIcon className='w-12 h-12' /></a
+          <AppleMusicIcon
+            className='w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 transition-all duration-300'
+          /></a
         >
         <li class='flex'>
           <a class='rounded-full' href=''>
-            <AmazonMusicIcon className='w-12 h-12' /></a
+            <AmazonMusicIcon
+              className='w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 transition-all duration-300'
+            /></a
           >
         </li>
       </li>

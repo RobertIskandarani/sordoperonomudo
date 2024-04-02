@@ -8,12 +8,16 @@ import LinksList from './LinksList.astro';
   class='w-screen h-40 z-0 flex flex-col justify-start items-center bg-[var(--background-color)]'
 >
   <WaveFloor color={'var(--background-color)'} client:idle />
-  <section class='w-[85%] flex flex-row justify-between items-center pb-8'>
+  <section
+    class='w-[85%] flex flex-col gap-4 md:flex-row justify-between items-center pb-8'
+  >
     <img class='invert' src='/assets/logotipo.svg' alt='Sordo pero no mudo' />
     <LinksList />
   </section>
   <section class='flex flex-row gap-5'>
-    <CopyrightIcon className=' w-6' />
-    <h1 class='py-4 ft-title'>2024 - SORDO PERO NO MUDO</h1>
+    <CopyrightIcon className=' w-4 sm:w-6' />
+    <h1 class='py-4 text-xs sm:text-base ft-title transition-all duration-300'>
+      2024 - SORDO PERO NO MUDO
+    </h1>
   </section>
 </footer>
