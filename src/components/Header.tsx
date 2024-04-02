@@ -28,11 +28,12 @@ export default function Header() {
         <nav
           className={`${
             openMenu ? 'overflow-visible' : 'overflow-hidden header-nav-hide'
-          } transition-all duration-500 fixed left-0 bottom-0 w-full rounded-t-xl bg-white px-2 py-2 shadow-lg-y-up lg:shadow-lg lg:static lg:my-0 lg:flex lg:w-auto lg:rounded-full`}
+          } transition-all duration-500 z-10 fixed left-0 bottom-0 w-full rounded-t-xl bg-white px-2 py-2 shadow-lg-y-up lg:shadow-lg lg:static lg:my-0 lg:flex lg:w-auto lg:rounded-full`}
         >
           <ul className='flex flex-col justify-center items-center w-full lg:flex-row lg:items-center lg:justify-between gap-2'>
             {Sections.map((section) => (
               <li
+                key={section.title}
                 onClick={handleClick}
                 className={`transition-all duration-300 w-full lg:w-auto rounded-xl lg:rounded-full ${section.color} lg:bg-transparent text-base hover:font-medium hover:text-white cursor-pointer px-4 py-2 text-center`}
               >

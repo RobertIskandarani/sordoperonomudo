@@ -1,0 +1,19 @@
+---
+import CopyrightIcon from './icons/CopyrightIcon';
+import WaveFloor from './WaveFloor';
+import LinksList from './LinksList.astro';
+---
+
+<footer
+  class='w-screen h-40 z-0 flex flex-col justify-start items-center bg-[var(--background-color)]'
+>
+  <WaveFloor color={'var(--background-color)'} client:idle />
+  <section class='w-[85%] flex flex-row justify-between items-center pb-8'>
+    <img class='invert' src='/assets/logotipo.svg' alt='Sordo pero no mudo' />
+    <LinksList />
+  </section>
+  <section class='flex flex-row gap-5'>
+    <CopyrightIcon className=' w-6' />
+    <h1 class='py-4 ft-title'>2024 - SORDO PERO NO MUDO</h1>
+  </section>
+</footer>
