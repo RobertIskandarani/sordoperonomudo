@@ -1,0 +1,21 @@
+---
+interface Props {
+  color: string;
+}
+
+const { color }: Props = Astro.props;
+---
+
+<article
+  class:list={[
+    'w-80 rounded-[2rem] overflow-hidden',
+    { 'bg-[#E86985]': color === 'pink' },
+    { 'bg-[#83A9F0]': color === 'blue' },
+  ]}
+>
+  <slot />
+  <h1 class='px-3 py-3 text-center text-sm md:text-base h-24 transition-all duration-300'>
+    Acá iria una sinopsis breve que invite al lector a escuchar el episodio
+    completo.
+  </h1>
+</article>

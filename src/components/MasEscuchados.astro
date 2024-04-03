@@ -1,0 +1,22 @@
+---
+import Episodio from './Episodio.astro';
+---
+
+<section
+  class='w-full flex flex-col items-center justify-start gap-20 py-20 bg-[url(/assets/fondo2.svg)] bg-cover bg-no-repeat bg-start'
+>
+  <h1 class='text-2xl text-center md:text-6xl text-black ft-title transition-all duration-300'>
+    MÁS ESCUCHADOS
+  </h1>
+  <div class='w-[85%] flex flex-row gap-5 justify-center flex-wrap'>
+    <Episodio color='pink'>
+      <img width='100%' src='/assets/masEscuchado1.svg' alt='más escuchado 1' />
+    </Episodio>
+    <Episodio color='blue'>
+      <img width='100%' src='/assets/masEscuchado2.svg' alt='más escuchado 2' />
+    </Episodio>
+    <Episodio color='pink'>
+      <img width='100%' src='/assets/masEscuchado3.svg' alt='más escuchado 3' />
+    </Episodio>
+  </div>
+</section>
