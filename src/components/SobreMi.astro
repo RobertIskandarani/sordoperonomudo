@@ -1,0 +1,72 @@
+---
+import InstagramIcon from './icons/InstagramIcon';
+import TiktokIcon from './icons/TiktokIcon';
+import YoutubeLineIcon from './icons/YoutubeLineIcon';
+import WaveFloor from './WaveFloor';
+---
+
+<section class='w-full relative overflow-hidden'>
+  <WaveFloor
+    color='var(--background-color)'
+    className='rotate-180 absolute top-0'
+    type={2}
+    client:idle
+  />
+  <article class='w-full bg-[var(--red)] flex justify-center'>
+    <div class='w-[85%] flex justify-start py-16'>
+      <div
+        class='w-full md:w-1/2 flex flex-col gap-4 text-white md:text-md lg:text-xl items-start transition-all duration-300'
+      >
+        <h1 class=''>Soy <span class='font-bold'> Lucas Adlerstein </span></h1>
+        <h2 class='font-extralight'>@Hipoacusico</h2>
+        <div class='flex flex-col gap-4 font-light text-pretty'>
+          <p>
+            Comparto en redes sociales como vivo con un audífono y un implante.
+            No era suficiente los 2 minutos de video así que en el podcast
+            explayo mucho más.
+          </p>
+          <p>
+            <span class='font-medium'> Mi objetivo: </span>
+            aliviarle el camino a personas con perdida auditiva. ¿Te sumas?
+          </p>
+        </div>
+        <ul class='flex justify-start items-center gap-4'>
+          <li>
+            <a target="_blank" referrerpolicy="no-referrer" href=''>
+              <InstagramIcon className='w-10 h-10' />
+            </a>
+          </li>
+          <li>
+            <a target="_blank" referrerpolicy="no-referrer" href=''>
+              <TiktokIcon className='w-10 h-10' />
+            </a>
+          </li>
+          <li>
+            <a target="_blank" referrerpolicy="no-referrer" href=''>
+              <YoutubeLineIcon className='w-10 h-10' />
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </article>
+  <img
+    class='z-[1] hidden md:flex absolute bottom-0 right-[7.5%] md:h-5/6 lg:h-full transition-all duration-300'
+    src='/assets/perfil-lucas.svg'
+    alt='perfil Lucas'
+  />
+  <WaveFloor
+    color='var(--background-color)'
+    shadow={false}
+    type={2}
+    className='absolute bottom-0 z-[2] w-screen'
+    client:idle
+  />
+  <WaveFloor
+    color='var(--background-color)'
+    shadow={false}
+    type={2}
+    className='absolute bottom-0 z-0'
+    client:idle
+  />
+</section>
