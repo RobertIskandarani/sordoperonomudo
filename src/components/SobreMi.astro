@@ -5,10 +5,10 @@ import YoutubeLineIcon from './icons/YoutubeLineIcon';
 import WaveFloor from './WaveFloor';
 ---
 
-<section class='w-full relative overflow-hidden'>
+<section class='w-full relative'>
   <WaveFloor
     color='var(--background-color)'
-    className='rotate-180 absolute top-0'
+    className='rotate-180 absolute -top-px'
     type={2}
     client:idle
   />
@@ -59,7 +59,7 @@ import WaveFloor from './WaveFloor';
     color='var(--background-color)'
     shadow={false}
     type={2}
-    className='absolute bottom-0 z-[2] w-screen'
+    className='absolute -bottom-px z-[2] w-screen'
     client:idle
   />
   <WaveFloor
