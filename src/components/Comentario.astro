@@ -1,0 +1,31 @@
+---
+interface Props {
+  color: string;
+  nombre: string;
+}
+
+const { color, nombre }: Props = Astro.props;
+---
+
+<article class='w-80 rounded-[2rem] flex flex-col gap-4'>
+  <div
+    class:list={[
+      'w-full p-4 rounded-[2rem] border-2 flex flex-col gap-4 text-center',
+      { 'border-[var(--blue)]': color === 'blue' },
+      { 'border-[var(--red)]': color === 'red' },
+      { 'border-[var(--yellow)]': color === 'yellow' },
+    ]}
+  >
+    <slot />
+  </div>
+  <h1
+    class:list={[
+      'rounded-full flex justify-center items-center py-2 text-light',
+      { 'bg-[var(--blue)]': color === 'blue' },
+      { 'bg-[var(--red)]': color === 'red' },
+      { 'bg-[var(--yellow)]': color === 'yellow' },
+    ]}
+  >
+    {nombre}
+  </h1>
+</article>

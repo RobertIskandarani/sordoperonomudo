@@ -1,0 +1,41 @@
+---
+import Comentario from './Comentario.astro';
+import Episodio from './Episodio.astro';
+---
+
+<section
+  class='w-full flex flex-col items-center justify-start gap-20 py-10 bg-[var(--background-color)]'
+>
+  <div class="flex flex-col gap-4">
+    <h1
+      class='text-2xl text-center md:text-6xl text-black ft-title transition-all duration-300'
+    >
+      OYENTES DEL PODCAST
+    </h1>
+    <h2
+      class='text-sm text-center md:text-2xl text-black ft-title transition-all duration-300'
+    >
+      tampoco mudos, pero quizás “sordos”.
+    </h2>
+  </div>
+  <div class='w-[85%] flex flex-row gap-5 justify-center flex-wrap'>
+    <Comentario color='blue' nombre='Micaela'>
+      Esta es mi opinion sobre lo leido porque la verdad es que me gustaria que el podcast dure más.
+    </Comentario>
+    <Comentario color='red' nombre='Micaela'>
+      Esta es mi opinion sobre lo leido porque la verdad es que me gustaria que el podcast dure más.
+    </Comentario>
+    <Comentario color='yellow' nombre='Micaela'>
+      Esta es mi opinion sobre lo leido porque la verdad es que me gustaria que el podcast dure más.
+    </Comentario>
+    <Comentario color='blue' nombre='Micaela'>
+      Esta es mi opinion sobre lo leido porque la verdad es que me gustaria que el podcast dure más.
+    </Comentario>
+    <Comentario color='red' nombre='Micaela'>
+      Esta es mi opinion sobre lo leido porque la verdad es que me gustaria que el podcast dure más.
+    </Comentario>
+    <Comentario color='yellow' nombre='Micaela'>
+      Esta es mi opinion sobre lo leido porque la verdad es que me gustaria que el podcast dure más.
+    </Comentario>
+  </div>
+</section>
