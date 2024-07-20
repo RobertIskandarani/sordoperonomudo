@@ -1,0 +1,55 @@
+---
+import ReproduccionItem from './ReproduccionItem.astro';
+import WaveFloor from './WaveFloor';
+---
+
+<section class='w-full relative'>
+  <WaveFloor
+    color='var(--background-color)'
+    className='rotate-180 -scale-x-100 absolute -top-px'
+    type={2}
+    client:idle
+  />
+  <article class='w-full bg-[var(--blue)] flex justify-center'>
+    <div class='w-[85%] flex flex-col gap-10 justify-center py-20'>
+      <h1
+        class='text-2xl text-center md:text-6xl text-black ft-title transition-all duration-300'
+      >
+        LISTAS DE REPRODUCCIÓN
+      </h1>
+      <div class='w-full flex flex-col justify-center gap-10 pb-10'>
+        <div class="w-full flex flex-col justify-center gap-10 md:flex-row">
+          <ReproduccionItem
+            href='#'
+            titulo='ME DIJERON DE PROBAR AUDIFONOS'
+            image='/assets/reproduccion1.svg'
+          />
+          <ReproduccionItem
+            href='#'
+            titulo='MI HIJO NACIÓ SORDO'
+            image='/assets/reproduccion2.svg'
+          />
+        </div>
+        <div class="w-full flex flex-col justify-center gap-10 md:flex-row">
+          <ReproduccionItem
+            href='#'
+            titulo='PERDÍ MI AUDICIÓN DE UN SEGUNDO AL OTRO'
+            image='/assets/reproduccion3.svg'
+          />
+          <ReproduccionItem
+            href='#'
+            titulo='ME CUESTA ACEPTAR MI HIPOACUSIA'
+            image='/assets/reproduccion4.svg'
+          />
+        </div>
+      </div>
+    </div>
+  </article>
+  <WaveFloor
+    color='var(--background-color)'
+    shadow={false}
+    type={2}
+    className='absolute -bottom-px z-[2] w-screen'
+    client:idle
+  />
+</section>
