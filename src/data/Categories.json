@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "category": "Implante coclear",
+    "href": "#",
+    "image": "/assets/categorias/implante-coclear.svg",
+    "color": "blue"
+  },
+  {
+    "id": 1,
+    "category": "Audífonos",
+    "href": "#",
+    "image": "/assets/categorias/audifonos.svg",
+    "color": "red"
+  },
+  {
+    "id": 2,
+    "category": "Patologías",
+    "href": "#",
+    "image": "/assets/categorias/patologias.svg",
+    "color": "yellow"
+  }
+]
