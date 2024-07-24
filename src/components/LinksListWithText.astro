@@ -1,0 +1,91 @@
+---
+import AmazonMusicIcon from './icons/AmazonMusicIcon';
+import AppleMusicIcon from './icons/AppleMusicIcon';
+import GooglePodcastIcon from './icons/GooglePodcastIcon';
+import SpotifyIcon from './icons/SpotifyIcon';
+import YoutubeIcon from './icons/YoutubeIcon';
+
+interface Props {
+  spotify?: string;
+  youtube?: string;
+  apple?: string;
+  amazon?: string;
+  google?: string;
+}
+
+const {
+  spotify = 'https://open.spotify.com/show/6zYhA2pOjN0pxW2XcC8eM5',
+  youtube = 'https://www.youtube.com/playlist?list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF',
+  apple = 'https://podcasts.apple.com/us/podcast/sordo-pero-no-mudo-hablando-desde-mi-hipoacusia/id1695485167',
+  amazon = 'https://music.amazon.es/podcasts/21b84a7f-8fef-4f25-817e-d06f1365d55d/sordo-pero-no-mudo-hablando-desde-mi-hipoacusia',
+  google = 'https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lMjFkZDMxOC9wb2RjYXN0L3Jzcw',
+} = Astro.props;
+---
+
+<ul class='flex flex-col gap-5'>
+  <li class='flex'>
+    <a
+      target='___blank'
+      rel='noopener noreferrer'
+      href={spotify}
+      class='rounded-full flex gap-1 items-center text-xs md:text-base transition-all duration-300'
+    >
+      <SpotifyIcon
+        className='w-6 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10 transition-all duration-300'
+      />
+      <b>Spotify</b> con transcripción a texto
+    </a>
+  </li>
+  <li class='flex'>
+    <a
+      class='rounded-full flex gap-1 items-center text-xs md:text-base transition-all duration-300'
+      target='___blank'
+      rel='noopener noreferrer'
+      href={youtube}
+    >
+      <YoutubeIcon
+        className='w-6 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10 transition-all duration-300'
+      />
+      <b>YouTube</b> con subtítulos
+    </a>
+    <li class='flex'>
+      <a
+        class='rounded-full flex gap-1 items-center text-xs md:text-base transition-all duration-300'
+        target='___blank'
+        rel='noopener noreferrer'
+        href={google}
+      >
+        <GooglePodcastIcon
+          className='w-6 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10 transition-all duration-300'
+        />
+        <b>Google Podcast</b>
+      </a>
+      <li class='flex'>
+        <a
+          class='rounded-full flex gap-1 items-center text-xs md:text-base transition-all duration-300'
+          target='___blank'
+          rel='noopener noreferrer'
+          href={apple}
+        >
+          <AppleMusicIcon
+            className='w-6 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10 transition-all duration-300'
+          />
+          <b>Apple Podcast</b>
+        </a>
+        <li class='flex'>
+          <a
+            class='rounded-full flex gap-1 items-center text-xs md:text-base transition-all duration-300'
+            target='___blank'
+            rel='noopener noreferrer'
+            href={amazon}
+          >
+            <AmazonMusicIcon
+              className='w-6 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10 transition-all duration-300'
+            />
+            <b>Amazon Podcast</b>
+          </a>
+        </li>
+      </li>
+    </li>
+  </li>
+</ul>

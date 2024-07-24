@@ -8,7 +8,7 @@ export interface Categoria {
   slug: string;
   imagen: string;
   color: string;
-  'otras-categorias': {
+  otrasCategorias: {
     id: string;
   }[];
 }
@@ -19,4 +19,22 @@ export interface Invitado {
   imagen?: string;
   prefijo?: string;
   descripcion: string;
+}
+
+export interface Episodio {
+  numero: string;
+  portada: string;
+  color: string;
+  titulo: string;
+  categorias: string[];
+  invitados: Invitado[];
+  descripcion: string;
+  transcripcion: string;
+  links: {
+    spotify: string;
+    youtube: string;
+    apple: string;
+    amazon: string;
+    google: string;
+  };
 }

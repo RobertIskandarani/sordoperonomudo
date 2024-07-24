@@ -1,0 +1,48 @@
+---
+import LinksListWithText from './LinksListWithText.astro';
+interface Props {
+  links?: {
+    spotify: string;
+    youtube: string;
+    apple: string;
+    amazon: string;
+    google: string;
+  };
+}
+
+const { links } = Astro.props;
+---
+
+<section
+  class='w-full flex flex-col items-center justify-start gap-20 py-10 bg-[var(--background-color)]'
+>
+  <div
+    class='w-[85%] flex flex-row justify-between items-start gap-10 bg-white rounded-3xl drop-shadow-md p-10'
+  >
+    <div class='flex flex-col gap-10'>
+      <h1
+        class='w-full text-xl md:text-4xl text-black ft-title transition-all duration-300'
+      >
+        ESCUCHALO EN
+      </h1>
+      {
+        links ? (
+          <LinksListWithText
+            spotify={links.spotify}
+            youtube={links.youtube}
+            amazon={links.amazon}
+            apple={links.apple}
+            google={links.google}
+          />
+        ) : (
+          <LinksListWithText />
+        )
+      }
+    </div>
+    <img
+      class='hidden lg:flex lg:max-h-[22rem]'
+      src='/assets/megafono.png'
+      alt='megafono'
+    />
+  </div>
+</section>

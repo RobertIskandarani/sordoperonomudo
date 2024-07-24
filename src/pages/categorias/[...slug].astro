@@ -1,0 +1,72 @@
+---
+import Episodios from '../../components/Episodios.astro';
+import episodios from '../../data/Episodios.json'
+import categorias from '../../data/Categorias.json';
+import Layout from '../../layouts/Layout.astro';
+import Categorias from '../../components/Categorias.astro';
+import SeParte from '../../components/SeParte.astro';
+import MasEscuchados from '../../components/MasEscuchados.astro';
+import Escuchalo from '../../components/Escuchalo.astro';
+
+export async function getStaticPaths() {
+  return categorias.map(({ id, nombre, slug, imagen, color, otrasCategorias }) => {
+    return {
+      params: { slug },
+      props: {
+        id,
+        nombre,
+        slug,
+        imagen,
+        color,
+        otrasCategorias,
+      },
+    };
+  });
+}
+
+
+export const prerender = false;
+
+const { id, nombre, color, otrasCategorias } = Astro.props;
+---
+
+<Layout title={nombre}>
+  <main class='w-full flex flex-col justify-start items-center py-5 gap-10'>
+    <div class='w-[85%] flex flex-col gap-4'>
+      <h2
+        class='text-sm text-center md:text-2xl text-black ft-title transition-all duration-300'
+      >
+        Episodios sobre
+      </h2>
+      <h1
+        class='text-3xl text-center md:text-6xl text-black ft-title transition-all duration-300'
+      >
+        {nombre}
+      </h1>
+    </div>
+    <div
+      class='w-[85%] flex flex-row flex-wrap justify-center items-center gap-5 transition-all duration-300'
+    >
+      {
+        otrasCategorias.length !== 0 &&
+          otrasCategorias.map((categoria) => {
+            const category = categorias.find((cat) => cat.id === categoria.id)!;
+            return (
+              <a
+                href={`/categorias/${category.slug}`}
+                style={{backgroundColor: color}}
+                class='text-xs text-center md:text-base py-2 px-4 rounded-full transition-all duration-300'
+              >
+                {category.nombre}
+              </a>
+            );
+          })
+      }
+    </div>
+    <Episodios episodios={episodios.filter(episodio => episodio.categorias.includes(id))}/>
+      <Escuchalo />
+      <Categorias />
+      <SeParte />
+      <MasEscuchados />
+  </main>
+</Layout>

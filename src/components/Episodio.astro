@@ -1,12 +1,15 @@
 ---
 interface Props {
   color: string;
+  descripcion: string;
+  numero: string;
 }
 
-const { color }: Props = Astro.props;
+const { color, descripcion, numero }: Props = Astro.props;
 ---
 
-<article
+<a
+  href={`/episodios/${numero}`}
   class:list={[
     'w-80 rounded-[2rem] overflow-hidden',
     { 'bg-[#E86985]': color === 'pink' },
@@ -14,8 +17,9 @@ const { color }: Props = Astro.props;
   ]}
 >
   <slot />
-  <h1 class='px-3 py-3 text-center text-sm md:text-base h-24 transition-all duration-300'>
-    Acá iria una sinopsis breve que invite al lector a escuchar el episodio
-    completo.
+  <h1
+    class='px-3 py-3 text-center text-sm md:text-base h-24 transition-all duration-300'
+  >
+    {descripcion}
   </h1>
-</article>
+</a>

@@ -12,16 +12,28 @@ export default function Header() {
     setOpenMenu(!openMenu);
   };
 
+  const handleLinkClick = (
+    event: React.MouseEvent<HTMLAnchorElement>,
+    link: string
+  ) => {
+    event.preventDefault();
+    setOpenMenu(false);
+    window.location.href = `${window.location.origin}${link}`;
+  };
+
   return (
     <header className='w-full flex justify-center min-h-24'>
       <section className='w-[85%] flex flex-row justify-between items-center'>
-        <figure className='bg-white px-3 py-4 rounded-b-3xl shadow-lg h-full'>
+        <a
+          href='/'
+          className='bg-white px-3 py-4 rounded-b-3xl shadow-lg h-full'
+        >
           <img
             className='invert'
             src='/assets/logotipo.svg'
             alt='Sordo pero no mudo'
           />
-        </figure>
+        </a>
         <div className='lg:hidden bg-white shadow-lg px-4 py-6 rounded-lg'>
           <HamburguerIcon isSelected={openMenu} onClick={handleClick} />
         </div>
@@ -34,10 +46,14 @@ export default function Header() {
             {Sections.map((section) => (
               <li
                 key={section.title}
-                onClick={handleClick}
                 className={`transition-all duration-300 w-full lg:w-auto rounded-xl lg:rounded-full ${section.color} lg:bg-transparent text-base hover:font-medium hover:text-white cursor-pointer px-4 py-2 text-center`}
               >
-                <a href={`#${section.link}`}>{section.title}</a>
+                <a
+                  href={`${section.link}`}
+                  onClick={(event) => handleLinkClick(event, section.link)}
+                >
+                  {section.title}
+                </a>
               </li>
             ))}
           </ul>

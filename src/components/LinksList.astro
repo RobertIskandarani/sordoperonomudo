@@ -4,6 +4,22 @@ import AppleMusicIcon from './icons/AppleMusicIcon';
 import GooglePodcastIcon from './icons/GooglePodcastIcon';
 import SpotifyIcon from './icons/SpotifyIcon';
 import YoutubeIcon from './icons/YoutubeIcon';
+
+interface Props {
+  spotify?: string;
+  youtube?: string;
+  apple?: string;
+  amazon?: string;
+  google?: string;
+}
+
+const {
+  spotify = 'https://open.spotify.com/show/6zYhA2pOjN0pxW2XcC8eM5',
+  youtube = 'https://www.youtube.com/playlist?list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF',
+  apple = 'https://podcasts.apple.com/us/podcast/sordo-pero-no-mudo-hablando-desde-mi-hipoacusia/id1695485167',
+  amazon = 'https://music.amazon.es/podcasts/21b84a7f-8fef-4f25-817e-d06f1365d55d/sordo-pero-no-mudo-hablando-desde-mi-hipoacusia',
+  google = 'https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lMjFkZDMxOC9wb2RjYXN0L3Jzcw',
+} = Astro.props;
 ---
 
 <ul class='flex flex-row gap-8 flex-wrap'>
@@ -11,7 +27,7 @@ import YoutubeIcon from './icons/YoutubeIcon';
     <a
       target='___blank'
       rel='noopener noreferrer'
-      href='https://open.spotify.com/show/6zYhA2pOjN0pxW2XcC8eM5'
+      href={spotify}
       class='rounded-full'
     >
       <SpotifyIcon
@@ -24,7 +40,7 @@ import YoutubeIcon from './icons/YoutubeIcon';
       class='rounded-full'
       target='___blank'
       rel='noopener noreferrer'
-      href='https://www.youtube.com/playlist?list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF'
+      href={youtube}
     >
       <YoutubeIcon
         className='w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 transition-all duration-300'
@@ -35,7 +51,7 @@ import YoutubeIcon from './icons/YoutubeIcon';
         class='rounded-full'
         target='___blank'
         rel='noopener noreferrer'
-        href='https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lMjFkZDMxOC9wb2RjYXN0L3Jzcw'
+        href={google}
       >
         <GooglePodcastIcon
           className='w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 transition-all duration-300'
@@ -46,7 +62,7 @@ import YoutubeIcon from './icons/YoutubeIcon';
           class='rounded-full'
           target='___blank'
           rel='noopener noreferrer'
-          href='https://podcasts.apple.com/us/podcast/sordo-pero-no-mudo-hablando-desde-mi-hipoacusia/id1695485167'
+          href={apple}
         >
           <AppleMusicIcon
             className='w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 transition-all duration-300'
@@ -57,7 +73,7 @@ import YoutubeIcon from './icons/YoutubeIcon';
             class='rounded-full'
             target='___blank'
             rel='noopener noreferrer'
-            href='https://music.amazon.es/podcasts/21b84a7f-8fef-4f25-817e-d06f1365d55d/sordo-pero-no-mudo-hablando-desde-mi-hipoacusia'
+            href={amazon}
           >
             <AmazonMusicIcon
               className='w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 transition-all duration-300'

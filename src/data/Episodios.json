@@ -1,6 +1,8 @@
 [
   {
     "numero": "00",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Trailer - Bienvenida al Podcast",
     "categorias": ["02"],
     "invitados": [],
@@ -16,6 +18,8 @@
   },
   {
     "numero": "01",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Lo peor que me pasó en la vida es también lo mejor",
     "categorias": ["02", "03"],
     "invitados": [],
@@ -31,10 +35,12 @@
   },
   {
     "numero": "02",
+    "portada": "/assets/episodios/02.svg",
+    "color": "blue",
     "titulo": "Ansiedad e hipoacusia: La necesidad de controlar y saber qué me van a decir para no quedar como un tonto.",
     "categorias": ["02", "03"],
     "invitados": [],
-    "descripcion": "Imaginarme mil escenarios posibles de una conversación. Que decir, que me van a responder y que voy a responder yo. No querer quedar como un tonto por no escuchar y querer responder rápido y acertado. Pasa mucho, es parte... no siempre entendemos y muchas veces nos da 'cosa' preguntar un simple ¿qué?. /n No nos da vergüenza porque sea una mala palabra, viene de un cansancio de pedir y pedir que se repitan las cosas. Nos aleja esa sensación./nEn este capitulo te cuento una anécdota mía, donde la ansiedad se apoderó de mi. Donde casi que tuve MIEDO de que una persona me hable. De tener que escuchar un simple '¿cómo estás?'/nEs clave el acompañamiento de un terapeuta (psicólogo). A mi me ayuda muchísimo. Obvio que también buenas compañías, pero no siempre se puede tenerlas y no siempre uno se siente cómodo./nLa ansiedad que puede provocar la hipoacusia puede ser grande, puede darnos miedo pero si la conocemos, poco a poco podemos ir adoptándola como parte nuestra y si la entendemos, con ayuda extra tengo fe de que la podemos ir moldeando y trabajando para que no nos desespere.",
+    "descripcion": "Imaginarme mil escenarios posibles de una conversación. Que decir, que me van a responder y que voy a responder yo. No querer quedar como un tonto por no escuchar y querer responder rápido y acertado. Pasa mucho, es parte... no siempre entendemos y muchas veces nos da 'cosa' preguntar un simple ¿qué?. \n No nos da vergüenza porque sea una mala palabra, viene de un cansancio de pedir y pedir que se repitan las cosas. Nos aleja esa sensación.\nEn este capitulo te cuento una anécdota mía, donde la ansiedad se apoderó de mi. Donde casi que tuve MIEDO de que una persona me hable. De tener que escuchar un simple '¿cómo estás?'\nEs clave el acompañamiento de un terapeuta (psicólogo). A mi me ayuda muchísimo. Obvio que también buenas compañías, pero no siempre se puede tenerlas y no siempre uno se siente cómodo.\nLa ansiedad que puede provocar la hipoacusia puede ser grande, puede darnos miedo pero si la conocemos, poco a poco podemos ir adoptándola como parte nuestra y si la entendemos, con ayuda extra tengo fe de que la podemos ir moldeando y trabajando para que no nos desespere.",
     "transcripcion": "",
     "links": {
       "spotify": "https://open.spotify.com/episode/5TSJFj4jCyV3TX8wOoHbMD",
@@ -46,6 +52,8 @@
   },
   {
     "numero": "03",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "El Waze y la hipoacusia: pensar donde estamos, para ver cómo seguir!",
     "categorias": ["02"],
     "invitados": [],
@@ -61,17 +69,19 @@
   },
   {
     "numero": "04",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Rehabilitación Auditiva (TAV)",
     "categorias": ["01"],
     "invitados": [
       {
         "apellido": "Furmanski",
         "nombre": "Hilda",
-        "imagen": "",
+        "imagen": "/assets/invitados/hilda-furmanski.svg",
         "descripcion": "Fonoaudióloga, especialista en rehabilitación auditiva y terapia auditivo verbal (TAV). Presidente de la Asociación Argentina de Audiología (ASARA)."
       }
     ],
-    "descripcion": "En este episodio vamos a hablar del mundo de la rehabilitación auditiva y la terapia auditivo verbal (TAV) con Hilda Furmanski, fonoaudióloga especializada./nLos implantes auditivos y los audífonos son maravillosos pero NO SON MAGIA. Implantarse requiere de un esfuerzo, perseverancia y una rehabilitación auditiva posterior. O en el caso de los niños, una habilitación./nSurgen dudas como, ¿Qué es la rehabilitación auditiva? ¿Es necesaria después de mi implante? ¿Qué pasa si no la hago? ¿Me ayudará a escuchar menos robótico? ¿Está bien la rehabilitación que estoy haciendo? ¿Qué me espera cuando arranque las sesiones?",
+    "descripcion": "En este episodio vamos a hablar del mundo de la rehabilitación auditiva y la terapia auditivo verbal (TAV) con Hilda Furmanski, fonoaudióloga especializada.\nLos implantes auditivos y los audífonos son maravillosos pero NO SON MAGIA. Implantarse requiere de un esfuerzo, perseverancia y una rehabilitación auditiva posterior. O en el caso de los niños, una habilitación.\nSurgen dudas como, ¿Qué es la rehabilitación auditiva? ¿Es necesaria después de mi implante? ¿Qué pasa si no la hago? ¿Me ayudará a escuchar menos robótico? ¿Está bien la rehabilitación que estoy haciendo? ¿Qué me espera cuando arranque las sesiones?",
     "transcripcion": "",
     "links": {
       "spotify": "https://open.spotify.com/episode/1V0g8bHmRlSdd0FNsOXGZS",
@@ -83,17 +93,19 @@
   },
   {
     "numero": "05",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Vivir en guerra en Israel, siendo hipoacúsica",
     "categorias": ["04"],
     "invitados": [
       {
         "apellido": "S",
         "nombre": "Tamy",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Nacida en Buenos Aires, usuaria de implante de conducción ósea. Hipoacusia causada por colesteatomas."
       }
     ],
-    "descripcion": "En medio de este terror que está sucediendo entre Israel y el grupo terrorista Hamas, les comparto esta conversación con Tamy. Es una joven hipoacusica argentina, usuaria de implante de conducción ósea. Hoy en dia vive en Tel Aviv, Israel./nTamy nos comparte como se vive allá este horror y como es para ella vivirlo siendo hipoacúsica./nEs un episodio distinto, es un episodio donde encuentro importante la reflexión en valor a la vida y no hacer la vista gorda ante los hechos atroces que suceden, aunque sean en la otra punta del mundo.",
+    "descripcion": "En medio de este terror que está sucediendo entre Israel y el grupo terrorista Hamas, les comparto esta conversación con Tamy. Es una joven hipoacusica argentina, usuaria de implante de conducción ósea. Hoy en dia vive en Tel Aviv, Israel.\nTamy nos comparte como se vive allá este horror y como es para ella vivirlo siendo hipoacúsica.\nEs un episodio distinto, es un episodio donde encuentro importante la reflexión en valor a la vida y no hacer la vista gorda ante los hechos atroces que suceden, aunque sean en la otra punta del mundo.",
     "transcripcion": "",
     "links": {
       "spotify": "https://open.spotify.com/episode/1gtRcYb0BB9IFZuxMyoUUO",
@@ -105,10 +117,12 @@
   },
   {
     "numero": "06",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "La distancia de la perfección sonora",
     "categorias": ["02"],
     "invitados": [],
-    "descripcion": "Hay infinitas experiencias, infinitos sistemas auditivos, pero hay una norma, algo que define que es un sistema auditivo tipo. No todos los tenemos y de ahí la distancia./nPara encontrar herramientas primero hay que buscarlas.",
+    "descripcion": "Hay infinitas experiencias, infinitos sistemas auditivos, pero hay una norma, algo que define que es un sistema auditivo tipo. No todos los tenemos y de ahí la distancia.\nPara encontrar herramientas primero hay que buscarlas.",
     "transcripcion": "",
     "links": {
       "spotify": "https://open.spotify.com/episode/2vzYE4L0jIWQM5bTBRkxae",
@@ -120,13 +134,15 @@
   },
   {
     "numero": "07",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Selección de Audífonos",
     "categorias": ["01"],
     "invitados": [
       {
         "apellido": "Fanelli",
         "nombre": "Karina",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "prefijo": "Lic.",
         "descripcion": "Licenciada en Fonoaudiología, especialista en Audiología, docente de la licenciatura en fonoaudiología en UBA y USAL."
       }
@@ -143,18 +159,20 @@
   },
   {
     "numero": "08",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Culpa y Aceptación - Biodescodificación",
     "categorias": ["01", "02"],
     "invitados": [
       {
         "apellido": "Vazquez Kunz",
         "nombre": "Pablo",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "prefijo": "Lic.",
         "descripcion": "Lic. en Psicología y Especialista en Biodescodificación. Autor de libros de Biodescodificación®, Crecimiento Personal y Espiritual del mundo en habla hispana."
       }
     ],
-    "descripcion": "¿Te da culpa ser distinto al resto? ¿Te da culpa ser igual al resto? ¿Te da culpa necesitar algo más? ¿Te da culpa que tu hijo...?/nTodas las personas en el mundo, lamentablemente, tenemos una cuota de culpa y eso nos destroza. Mayormente las cosas que nos dan culpa, están en nuestra cabeza y son percibidas de otra manera./nRealmente, este episodio en particular, recomiendo a TODOS escucharlo. Cualquier ser humano en este mundo. Llegamos a cosas muy interesantes e importantes para que nosotros, personas que vivimos en la tierra, aliviemos nuestro propio camino.",
+    "descripcion": "¿Te da culpa ser distinto al resto? ¿Te da culpa ser igual al resto? ¿Te da culpa necesitar algo más? ¿Te da culpa que tu hijo...?\nTodas las personas en el mundo, lamentablemente, tenemos una cuota de culpa y eso nos destroza. Mayormente las cosas que nos dan culpa, están en nuestra cabeza y son percibidas de otra manera.\nRealmente, este episodio en particular, recomiendo a TODOS escucharlo. Cualquier ser humano en este mundo. Llegamos a cosas muy interesantes e importantes para que nosotros, personas que vivimos en la tierra, aliviemos nuestro propio camino.",
     "transcripcion": "",
     "links": {
       "spotify": "https://open.spotify.com/episode/13zBMR8tRCDHZRztcNO2O4",
@@ -166,13 +184,15 @@
   },
   {
     "numero": "09",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Calibración de audífonos",
     "categorias": ["01"],
     "invitados": [
       {
         "apellido": "Fanelli",
         "nombre": "Karina",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "prefijo": "Lic.",
         "descripcion": "Licenciada en Fonoaudiología, especialista en Audiología, docente de la licenciatura en fonoaudiología en la UBA y USAL."
       }
@@ -189,13 +209,15 @@
   },
   {
     "numero": "10",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "'Mi hijo nació sordo'",
     "categorias": ["04"],
     "invitados": [
       {
         "apellido": "Mamá de Luqui",
         "nombre": "Paula",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Luqui nació con hipoacusia bilateral profunda, es usuario de implante coclear bilateral."
       }
     ],
@@ -211,6 +233,8 @@
   },
   {
     "numero": "11",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "El día que Argentina ganó el mundial",
     "categorias": ["03", "02"],
     "invitados": [],
@@ -226,6 +250,8 @@
   },
   {
     "numero": "12",
+    "portada": "/assets/episodios/12.svg",
+    "color": "pink",
     "titulo": "Hipoacusia Súbita (o Sordera Súbita)",
     "categorias": ["01"],
     "invitados": [
@@ -233,7 +259,7 @@
         "apellido": "Ontivero",
         "nombre": "Paula",
         "prefijo": "Dra.",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Médica otorrinolaringóloga, especialista en cirugía de oído e implantes cocleares."
       }
     ],
@@ -249,6 +275,8 @@
   },
   {
     "numero": "13",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Detección temprana de hipoacusia: bebes, niños, jóvenes y adultos",
     "categorias": ["01"],
     "invitados": [
@@ -256,7 +284,7 @@
         "apellido": "Fanelli",
         "nombre": "Karina",
         "prefijo": "Lic.",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Licenciada en Fonoaudiología, especialista en Audiología, docente de la licenciatura en fonoaudiología en la UBA y USAL."
       }
     ],
@@ -272,6 +300,8 @@
   },
   {
     "numero": "14",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Hipoacusia Unilateral o Sordera Unilateral",
     "categorias": ["01", "04"],
     "invitados": [
@@ -279,11 +309,11 @@
         "apellido": "Alcalá Rueda",
         "nombre": "Ignacio",
         "prefijo": "Dr.",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Médico Otorrinolaringólogo de Madrid, trabaja en la salud pública y difunde contenido médico en redes sociales."
       }
     ],
-    "descripcion": "Vivir con un solo oído puede ser todo un desafío. Las emociones, el aprendizaje y el trabajo pueden ser afectadas. /nEn este episodio, el Dr. Ignacio Alcalá, médico otorrinolaringólogo de Madrid nos cuenta causas, desafíos, tratamientos, opciones y cómo es vivir con un solo oído, que es su caso además de ser otorrino.",
+    "descripcion": "Vivir con un solo oído puede ser todo un desafío. Las emociones, el aprendizaje y el trabajo pueden ser afectadas. \nEn este episodio, el Dr. Ignacio Alcalá, médico otorrinolaringólogo de Madrid nos cuenta causas, desafíos, tratamientos, opciones y cómo es vivir con un solo oído, que es su caso además de ser otorrino.",
     "transcripcion": "",
     "links": {
       "spotify": "https://open.spotify.com/episode/7zzgBkUxNi5WMXGGbJ6vsB",
@@ -295,19 +325,21 @@
   },
   {
     "numero": "15",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Acúfenos o Tinnitus",
     "categorias": ["01"],
     "invitados": [
       {
         "apellido": "Dominguez",
         "nombre": "Susana",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": ""
       },
       {
         "apellido": "Sitzer",
         "nombre": "Yanina",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": ""
       }
     ],
@@ -323,6 +355,8 @@
   },
   {
     "numero": "16",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "A la salida de un recital - Anécdota",
     "categorias": ["03", "02"],
     "invitados": [],
@@ -338,6 +372,8 @@
   },
   {
     "numero": "17",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Colesteatoma - Dr. Daniel de la Torre Diamante",
     "categorias": [],
     "invitados": [
@@ -345,7 +381,7 @@
         "apellido": "Diamante",
         "nombre": "Daniel de la Torre",
         "prefijo": "Dr.",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Médico Otorrinolaringólogo, cirujano de oído, docente de la Universidad de El Salvador."
       }
     ],
@@ -361,17 +397,19 @@
   },
   {
     "numero": "18",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Consejo de una madre",
     "categorias": ["04"],
     "invitados": [
       {
         "apellido": "Mamá de Luqui",
         "nombre": "Paula",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Pau es la mamá de Luqui, nacido con hipoacusia bilateral profunda y usuario de implante coclear de ambos oidos."
       }
     ],
-    "descripcion": "La hipoacusia infantil es más común de lo que pensas. En el episodio 10 de 'Sordo pero no mudo', hablamos de la experiencia de Pau, con su hijo que nació con un diagnóstico de hipoacusia bilateral profunda o dicho en otras palabras: nació sordo./nEn este episodio, comenzamos a hablar desde la pregunta '¿Qué consejo le darías a una madre cuyo hijo nace sordo?' y esto fue lo que salió.",
+    "descripcion": "La hipoacusia infantil es más común de lo que pensas. En el episodio 10 de 'Sordo pero no mudo', hablamos de la experiencia de Pau, con su hijo que nació con un diagnóstico de hipoacusia bilateral profunda o dicho en otras palabras: nació sordo.\nEn este episodio, comenzamos a hablar desde la pregunta '¿Qué consejo le darías a una madre cuyo hijo nace sordo?' y esto fue lo que salió.",
     "transcripcion": "",
     "links": {
       "spotify": "https://open.spotify.com/episode/7c2jOKG6rejRXrL2qKmQlA",
@@ -383,6 +421,8 @@
   },
   {
     "numero": "19",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Qué hacer si no funcionó el tratamiento de la hipoacusia súbita (o sordera súbita)",
     "categorias": [],
     "invitados": [
@@ -390,7 +430,7 @@
         "apellido": "Ontivero",
         "nombre": "Paula",
         "prefijo": "Dra.",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Médica otorrinolaringóloga, especialista en cirugía de oído e implantes cocleares."
       }
     ],
@@ -406,6 +446,8 @@
   },
   {
     "numero": "20",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Recuerdo de mi CIRUGÍA FALLIDA a los 16 años",
     "categorias": ["02", "03"],
     "invitados": [],
@@ -421,13 +463,15 @@
   },
   {
     "numero": "21",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Nómades con implante coclear",
     "categorias": [],
     "invitados": [
       {
         "apellido": "y Nacho",
         "nombre": "Gise",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Padre y madre de Jaz, nacida prematura y desarrolló ototoxicidad a los remedios en neonatología, hoy es usuaria de implante coclear"
       }
     ],
@@ -443,6 +487,8 @@
   },
   {
     "numero": "22",
+    "portada": "/assets/episodios/22.svg",
+    "color": "pink",
     "titulo": "Leyes en salud y discapacidad",
     "categorias": ["02"],
     "invitados": [
@@ -450,7 +496,7 @@
         "apellido": "Torres Lopez",
         "nombre": "Juan Bautista",
         "prefijo": "Dr.",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Abogado de la Universidad de Buenos Aires y Periodista. Columnista en Infobae."
       }
     ],
@@ -466,13 +512,15 @@
   },
   {
     "numero": "23",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Otosclerosis y Estapedectomía - Dr. Eduardo Hocsman",
     "categorias": ["01"],
     "invitados": [
       {
         "apellido": "Hocsman",
         "nombre": "Eduardo",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Médico cirujano otorrinolaringólogo, especialista en patología de oído.",
         "prefijo": "Dr."
       }
@@ -489,13 +537,15 @@
   },
   {
     "numero": "24",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Crisis, resiliencia y la historia de un padre",
     "categorias": ["02", "04"],
     "invitados": [
       {
         "apellido": "Montalvo",
         "nombre": "David",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Conferencista, tanatólogo, coach de cambio y resiliencia, padre de una niña hipoacúsica."
       }
     ],
@@ -511,6 +561,8 @@
   },
   {
     "numero": "25",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Vínculos, citas y parejas",
     "categorias": ["02"],
     "invitados": [
@@ -518,7 +570,7 @@
         "apellido": "Buscio",
         "nombre": "Sol",
         "prefijo": "Lic.",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": "Psicóloga, especialista en vínculos y ansiedad."
       }
     ],
@@ -534,13 +586,15 @@
   },
   {
     "numero": "26",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "5G, celulares y tumores [importante] - Dr. Daniel Orfila",
     "categorias": ["01"],
     "invitados": [
       {
         "apellido": "Orfila",
         "nombre": "Daniel",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "prefijo": "Dr.",
         "descripcion": "Médico cirujano otorrinolaringólogo. Especialista en tumor de la vía auditiva, miembro de CIPRACEM."
       }
@@ -557,23 +611,25 @@
   },
   {
     "numero": "27",
+    "portada": "/assets/episodios/numero.svg",
+    "color": "pink",
     "titulo": "Consejos sobre ACÚFENOS o TINNITUS",
     "categorias": ["01"],
     "invitados": [
       {
         "apellido": "Dominguez",
         "nombre": "Susana",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": ""
       },
       {
         "apellido": "Sitzer",
         "nombre": "Yanina",
-        "imagen": "",
+        "imagen": "/assets/invitados/nombre-apellido.svg",
         "descripcion": ""
       }
     ],
-    "descripcion": "Este episodio es un agregado del episodio 15 donde hablamos exclusivamente de acúfenos o tinnitus./n En este episodio te dejamos algunos consejos para vivir con acúfenos, tanto si vos los padeces como si un amigo, familiar o pareja los tiene.",
+    "descripcion": "Este episodio es un agregado del episodio 15 donde hablamos exclusivamente de acúfenos o tinnitus.\n En este episodio te dejamos algunos consejos para vivir con acúfenos, tanto si vos los padeces como si un amigo, familiar o pareja los tiene.",
     "transcripcion": "",
     "links": {
       "spotify": "https://open.spotify.com/episode/2VbpNkS9f0u2REnO2qVdIZ",

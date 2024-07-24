@@ -1,0 +1,29 @@
+---
+import Episodio from './Episodio.astro';
+import { type Episodio as EpisodioType } from '../types/Types';
+import episodiosTotales from '../data/Episodios.json'
+
+interface Props {
+  episodios?: EpisodioType[];
+}
+
+const { episodios = episodiosTotales } = Astro.props;
+---
+
+<div class='w-[85%] flex flex-wrap justify-evenly gap-5'>
+  {
+    episodios.map((episodio) => (
+      <Episodio
+        color={episodio.color}
+        descripcion={episodio.titulo}
+        numero={episodio.numero}
+      >
+        <img
+          width='100%'
+          src={episodio.portada}
+          alt={`Episodio ${episodio.numero}`}
+        />
+      </Episodio>
+    ))
+  }
+</div>
