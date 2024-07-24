@@ -1,4 +1,4 @@
-import type IconProps from '../../types/IconProps';
+import { type IconProps } from '../../types/Types';
 
 export default function SpotifyIcon({ className }: IconProps) {
   return (

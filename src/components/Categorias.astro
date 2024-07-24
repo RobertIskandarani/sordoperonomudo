@@ -1,10 +1,17 @@
 ---
 import Carrousel from './Carrousel';
 import WaveFloor from './WaveFloor';
+import todas_las_categorias from '../data/Categorias.json';
 
-import categorias from '../data/Categories.json'
+import {type Categoria} from '../types/Types';
+
+interface Props {
+  categorias?: Categoria[];
+}
 
 export const prerender = false;
+
+const { categorias = todas_las_categorias } = Astro.props;
 ---
 
 <section id='categorías' class='w-full relative'>

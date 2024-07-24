@@ -1,9 +1,15 @@
 ---
 import ReproduccionItem from './ReproduccionItem.astro';
 import WaveFloor from './WaveFloor';
+import playlists from '../data/Playlists.json';
+
+const firstPlaylists = playlists.slice(0, 2);
+const lastPlaylists = playlists.slice(2, 4);
+
+export const prerender = false;
 ---
 
-<section id="rutas_de_escucha" class='w-full relative'>
+<section id='rutas_de_escucha' class='w-full relative'>
   <WaveFloor
     color='var(--background-color)'
     className='rotate-180 -scale-x-100 absolute -top-px'
@@ -18,29 +24,27 @@ import WaveFloor from './WaveFloor';
         LISTAS DE REPRODUCCIÓN
       </h1>
       <div class='w-full flex flex-col justify-center gap-10 pb-10'>
-        <div class="w-full flex flex-col justify-center gap-10 md:flex-row">
-          <ReproduccionItem
-            href='#'
-            titulo='ME DIJERON DE PROBAR AUDIFONOS'
-            image='/assets/reproduccion1.svg'
-          />
-          <ReproduccionItem
-            href='#'
-            titulo='MI HIJO NACIÓ SORDO'
-            image='/assets/reproduccion2.svg'
-          />
+        <div class='w-full flex flex-col justify-center gap-10 md:flex-row'>
+          {
+            firstPlaylists.map((playlist) => (
+              <ReproduccionItem
+                href={`/playlists/${playlist.slug}`}
+                titulo={playlist.nombre}
+                image={playlist.imagen}
+              />
+            ))
+          }
         </div>
-        <div class="w-full flex flex-col justify-center gap-10 md:flex-row">
-          <ReproduccionItem
-            href='#'
-            titulo='PERDÍ MI AUDICIÓN DE UN SEGUNDO AL OTRO'
-            image='/assets/reproduccion3.svg'
-          />
-          <ReproduccionItem
-            href='#'
-            titulo='ME CUESTA ACEPTAR MI HIPOACUSIA'
-            image='/assets/reproduccion4.svg'
-          />
+        <div class='w-full flex flex-col justify-center gap-10 md:flex-row'>
+          {
+            lastPlaylists.map((playlist) => (
+              <ReproduccionItem
+                href={`/playlists/${playlist.slug}`}
+                titulo={playlist.nombre}
+                image={playlist.imagen}
+              />
+            ))
+          }
         </div>
       </div>
     </div>

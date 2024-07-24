@@ -1,0 +1,62 @@
+---
+import WaveFloor from './WaveFloor';
+import { type Invitado } from '../types/Types';
+
+interface Props {
+  invitado: Invitado;
+}
+
+const { invitado } = Astro.props;
+---
+
+<section class='w-full relative'>
+  <WaveFloor
+    color='var(--background-color)'
+    className='rotate-180 absolute -top-px'
+    type={2}
+    client:idle
+  />
+  <article class='w-full bg-[var(--red)] flex justify-center'>
+    <div class='w-[85%] flex justify-start py-20'>
+      <div
+        class='w-full md:w-1/2 flex flex-col gap-4 text-white md:text-md lg:text-xl items-start transition-all duration-300'
+      >
+        <h1 class=''>
+          Con <span class='font-bold'>
+            {invitado.prefijo ? invitado.prefijo : ''}
+            {invitado.nombre}
+            {invitado.apellido}
+          </span>
+        </h1>
+        <div class='flex flex-col gap-4 font-light text-pretty'>
+          <p>
+            {invitado.descripcion}
+          </p>
+        </div>
+      </div>
+    </div>
+    {
+      invitado.imagen !== '' && (
+        <img
+          class='z-[1] hidden md:flex absolute bottom-0 right-[7.5%] md:h-5/6 lg:h-full transition-all duration-300'
+          src={invitado.imagen}
+          alt={`${invitado.nombre} ${invitado.apellido}`}
+        />
+      )
+    }
+    <WaveFloor
+      color='var(--background-color)'
+      shadow={false}
+      type={2}
+      className='absolute -bottom-px z-[2] w-screen'
+      client:idle
+    />
+    <WaveFloor
+      color='var(--background-color)'
+      shadow={false}
+      type={2}
+      className='absolute bottom-0 z-0'
+      client:idle
+    />
+  </article>
+</section>

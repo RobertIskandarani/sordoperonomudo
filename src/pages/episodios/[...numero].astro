@@ -1,0 +1,102 @@
+---
+import episodios from '../../data/Episodios.json';
+import Layout from '../../layouts/Layout.astro';
+import SpotifyIcon from '../../components/icons/SpotifyIcon';
+import YoutubeIcon from '../../components/icons/YoutubeIcon';
+import SeParte from '../../components/SeParte.astro';
+import Categorias from '../../components/Categorias.astro';
+import SobreMi from '../../components/SobreMi.astro';
+import Invitados from '../../components/Invitados.astro';
+
+export async function getStaticPaths() {
+  return episodios.map(
+    ({
+      numero,
+      titulo,
+      categorias,
+      descripcion,
+      invitados,
+      links,
+      transcripcion,
+    }) => {
+      return {
+        params: { numero },
+        props: {
+          numero,
+          titulo,
+          categorias,
+          descripcion,
+          invitados,
+          links,
+          transcripcion,
+        },
+      };
+    }
+  );
+}
+
+const {
+  numero,
+  titulo,
+  categorias,
+  descripcion,
+  invitados,
+  links,
+  transcripcion,
+} = Astro.props;
+---
+
+<Layout title={`Episodio ${numero}`}>
+  <main class='w-full flex flex-col justify-start items-center py-5 gap-5'>
+    <div class='w-full bg-[var(--blue)] flex justify-center items-center text-center py-10 text-xl md:text-4xl text-black transition-all duration-300'>
+      <h1 class="w-[85%]">
+        {numero}. {titulo}
+      </h1>
+    </div>
+    <div class='w-[85%] flex flex-col gap-5'>
+      <p class='text-center'>{descripcion}</p>
+      <div
+        class='w-full flex flex-col items-center justify-center py-5 px-10 gap-10 rounded-3xl md:rounded-full bg-white drop-shadow-md'
+      >
+        <h1
+          class='w-full text-xl md:text-4xl text-black ft-title transition-all duration-300'
+        >
+          ESCUCHALO EN
+        </h1>
+        <div class='w-full flex flex-col md:flex-row justify-center gap-5'>
+          <a
+            href={links.spotify}
+            class='flex gap-2 items-center'
+            target='_blank'
+            referrerpolicy='no-referrer'
+            ><SpotifyIcon className='w-5 h-5' />
+            <b>Spotify</b><span class='hidden md:flex'
+              >con transcripción a texto</span
+            ></a
+          >
+          <a
+            href={links.youtube}
+            class='flex gap-2 items-center'
+            target='_blank'
+            referrerpolicy='no-referrer'
+            ><YoutubeIcon className='w-5 h-5' /><b>YouTube</b><span
+              class='hidden md:flex'>con subtítulos</span
+            ></a
+          >
+        </div>
+      </div>
+    </div>
+    {invitados?.map((invitado) => <Invitados invitado={invitado} />)}
+    {
+      transcripcion && (
+        <div class='w-[85%] flex flex-col gap-5 justify-start items-center'>
+          <h1 class='ft-title text-3xl'>Transcripción del episodio</h1>
+          <p>{transcripcion}</p>
+        </div>
+      )
+    }
+    <Categorias />
+    <SeParte />
+    <SobreMi />
+  </main>
+</Layout>

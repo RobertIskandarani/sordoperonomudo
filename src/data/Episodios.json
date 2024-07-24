@@ -1,0 +1,586 @@
+[
+  {
+    "numero": "00",
+    "titulo": "Trailer - Bienvenida al Podcast",
+    "categorias": ["02"],
+    "invitados": [],
+    "descripcion": "Te doy la bienvenida al podcast, te cuento que vas a encontrar, quién soy yo y como navegarlo de una manera fácil y a tu gusto.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/6zZegELg8RoTUwtBehULYz",
+      "youtube": "https://www.youtube.com/watch?v=8oxevcMD8nI&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "01",
+    "titulo": "Lo peor que me pasó en la vida es también lo mejor",
+    "categorias": ["02", "03"],
+    "invitados": [],
+    "descripcion": "En este primer episodio, te cuento QUÉ fue lo peor que me pasó en la vida y qué me hizo perder. Pero también, te cuento que hice con eso.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/7Mf67zLKVJC5uHIicP8jTM",
+      "youtube": "https://www.youtube.com/watch?v=CLH249yUo9c&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=2&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "02",
+    "titulo": "Ansiedad e hipoacusia: La necesidad de controlar y saber qué me van a decir para no quedar como un tonto.",
+    "categorias": ["02", "03"],
+    "invitados": [],
+    "descripcion": "Imaginarme mil escenarios posibles de una conversación. Que decir, que me van a responder y que voy a responder yo. No querer quedar como un tonto por no escuchar y querer responder rápido y acertado. Pasa mucho, es parte... no siempre entendemos y muchas veces nos da 'cosa' preguntar un simple ¿qué?. /n No nos da vergüenza porque sea una mala palabra, viene de un cansancio de pedir y pedir que se repitan las cosas. Nos aleja esa sensación./nEn este capitulo te cuento una anécdota mía, donde la ansiedad se apoderó de mi. Donde casi que tuve MIEDO de que una persona me hable. De tener que escuchar un simple '¿cómo estás?'/nEs clave el acompañamiento de un terapeuta (psicólogo). A mi me ayuda muchísimo. Obvio que también buenas compañías, pero no siempre se puede tenerlas y no siempre uno se siente cómodo./nLa ansiedad que puede provocar la hipoacusia puede ser grande, puede darnos miedo pero si la conocemos, poco a poco podemos ir adoptándola como parte nuestra y si la entendemos, con ayuda extra tengo fe de que la podemos ir moldeando y trabajando para que no nos desespere.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/5TSJFj4jCyV3TX8wOoHbMD",
+      "youtube": "https://www.youtube.com/watch?v=3f8-mkCwXvs&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=3&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "03",
+    "titulo": "El Waze y la hipoacusia: pensar donde estamos, para ver cómo seguir!",
+    "categorias": ["02"],
+    "invitados": [],
+    "descripcion": "La hipoacusia a veces nos desconcierta, nos sorprende. Nos hace irnos, alejarnos… separarnos de lo que queremos, pero ni sabemos que es lo que queremos. La hipoacusia nos da ansiedad, nos saca del presente para ir a buscar el futuro. Nos hace olvidarnos qué hay mucho en la vida… se hace una barrera comunicacional tan grande que nos olvidamos de qué hay alternativas. De la nada me di cuenta que el Waze siempre está bien, siempre vas a llegar si pones el GPS. ¿Y sabes por qué? Porque SABE EL DESTINO. Sabe a donde queres llegar, lo que queres lograr, donde queres estar. Eso, te hace ir para adelante e ir por eso. Esa información es oro.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/6vDfhWGVBR171JHM3zTA9f",
+      "youtube": "https://www.youtube.com/watch?v=mCAPyn8dcbY&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=4&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "04",
+    "titulo": "Rehabilitación Auditiva (TAV)",
+    "categorias": ["01"],
+    "invitados": [
+      {
+        "apellido": "Furmanski",
+        "nombre": "Hilda",
+        "imagen": "",
+        "descripcion": "Fonoaudióloga, especialista en rehabilitación auditiva y terapia auditivo verbal (TAV). Presidente de la Asociación Argentina de Audiología (ASARA)."
+      }
+    ],
+    "descripcion": "En este episodio vamos a hablar del mundo de la rehabilitación auditiva y la terapia auditivo verbal (TAV) con Hilda Furmanski, fonoaudióloga especializada./nLos implantes auditivos y los audífonos son maravillosos pero NO SON MAGIA. Implantarse requiere de un esfuerzo, perseverancia y una rehabilitación auditiva posterior. O en el caso de los niños, una habilitación./nSurgen dudas como, ¿Qué es la rehabilitación auditiva? ¿Es necesaria después de mi implante? ¿Qué pasa si no la hago? ¿Me ayudará a escuchar menos robótico? ¿Está bien la rehabilitación que estoy haciendo? ¿Qué me espera cuando arranque las sesiones?",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/1V0g8bHmRlSdd0FNsOXGZS",
+      "youtube": "https://www.youtube.com/watch?v=posPmtdLTFM&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=5&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "05",
+    "titulo": "Vivir en guerra en Israel, siendo hipoacúsica",
+    "categorias": ["04"],
+    "invitados": [
+      {
+        "apellido": "S",
+        "nombre": "Tamy",
+        "imagen": "",
+        "descripcion": "Nacida en Buenos Aires, usuaria de implante de conducción ósea. Hipoacusia causada por colesteatomas."
+      }
+    ],
+    "descripcion": "En medio de este terror que está sucediendo entre Israel y el grupo terrorista Hamas, les comparto esta conversación con Tamy. Es una joven hipoacusica argentina, usuaria de implante de conducción ósea. Hoy en dia vive en Tel Aviv, Israel./nTamy nos comparte como se vive allá este horror y como es para ella vivirlo siendo hipoacúsica./nEs un episodio distinto, es un episodio donde encuentro importante la reflexión en valor a la vida y no hacer la vista gorda ante los hechos atroces que suceden, aunque sean en la otra punta del mundo.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/1gtRcYb0BB9IFZuxMyoUUO",
+      "youtube": "https://www.youtube.com/watch?v=Dks35UW1DIo&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=6&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "06",
+    "titulo": "La distancia de la perfección sonora",
+    "categorias": ["02"],
+    "invitados": [],
+    "descripcion": "Hay infinitas experiencias, infinitos sistemas auditivos, pero hay una norma, algo que define que es un sistema auditivo tipo. No todos los tenemos y de ahí la distancia./nPara encontrar herramientas primero hay que buscarlas.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/2vzYE4L0jIWQM5bTBRkxae",
+      "youtube": "https://www.youtube.com/watch?v=pnD2ZIe8hwc&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=7&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "07",
+    "titulo": "Selección de Audífonos",
+    "categorias": ["01"],
+    "invitados": [
+      {
+        "apellido": "Fanelli",
+        "nombre": "Karina",
+        "imagen": "",
+        "prefijo": "Lic.",
+        "descripcion": "Licenciada en Fonoaudiología, especialista en Audiología, docente de la licenciatura en fonoaudiología en UBA y USAL."
+      }
+    ],
+    "descripcion": "Usar audífonos es un mundo, y elegir cuál va a acompañarnos durante mucho tiempo, es una decisión difícil, llena de dudas e incertidumbre. Así que acá te dejamos un episodio sobre ELEGIR UN AUDÍFONO, desde el punto de vista del usuario y del profesional.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/4kXTSOfZpV9vIhKpJPX3o1",
+      "youtube": "https://www.youtube.com/watch?v=Tk_kfccS9Sc&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=8&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "08",
+    "titulo": "Culpa y Aceptación - Biodescodificación",
+    "categorias": ["01", "02"],
+    "invitados": [
+      {
+        "apellido": "Vazquez Kunz",
+        "nombre": "Pablo",
+        "imagen": "",
+        "prefijo": "Lic.",
+        "descripcion": "Lic. en Psicología y Especialista en Biodescodificación. Autor de libros de Biodescodificación®, Crecimiento Personal y Espiritual del mundo en habla hispana."
+      }
+    ],
+    "descripcion": "¿Te da culpa ser distinto al resto? ¿Te da culpa ser igual al resto? ¿Te da culpa necesitar algo más? ¿Te da culpa que tu hijo...?/nTodas las personas en el mundo, lamentablemente, tenemos una cuota de culpa y eso nos destroza. Mayormente las cosas que nos dan culpa, están en nuestra cabeza y son percibidas de otra manera./nRealmente, este episodio en particular, recomiendo a TODOS escucharlo. Cualquier ser humano en este mundo. Llegamos a cosas muy interesantes e importantes para que nosotros, personas que vivimos en la tierra, aliviemos nuestro propio camino.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/13zBMR8tRCDHZRztcNO2O4",
+      "youtube": "https://www.youtube.com/watch?v=gGyj3OceGlM&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=9&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "09",
+    "titulo": "Calibración de audífonos",
+    "categorias": ["01"],
+    "invitados": [
+      {
+        "apellido": "Fanelli",
+        "nombre": "Karina",
+        "imagen": "",
+        "prefijo": "Lic.",
+        "descripcion": "Licenciada en Fonoaudiología, especialista en Audiología, docente de la licenciatura en fonoaudiología en la UBA y USAL."
+      }
+    ],
+    "descripcion": "Si. Los audífonos son un mundo. Y un mundo que se configura, se cambian las voces, se suben los agudos y se bajan los graves (o al revés). También se elige la configuración del micrófono, tenés siri y un par de cosas más. De eso se trata este episodio: el arte de calibrar audífonos.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/5NAlUgHtqKrS5yBK2u2dDR",
+      "youtube": "https://www.youtube.com/watch?v=H0tt0FIuQIQ&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=10&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "10",
+    "titulo": "'Mi hijo nació sordo'",
+    "categorias": ["04"],
+    "invitados": [
+      {
+        "apellido": "Mamá de Luqui",
+        "nombre": "Paula",
+        "imagen": "",
+        "descripcion": "Luqui nació con hipoacusia bilateral profunda, es usuario de implante coclear bilateral."
+      }
+    ],
+    "descripcion": "En la emoción y alegría de dar a luz a su segundo hijo, se enteró que era sordo. Esta es la historia de Paula, invitada de este episodio que nos cuenta el camino que recorrió estos últimos 6 años.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/607FVOVE3aIK8mjoZPD5si",
+      "youtube": "https://www.youtube.com/watch?v=21opwn5wiCU&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=11&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "11",
+    "titulo": "El día que Argentina ganó el mundial",
+    "categorias": ["03", "02"],
+    "invitados": [],
+    "descripcion": "Cuando Argentina ganó el mundial, fuimos con mis amigos al Obelisco a festejar junto a millones de argentinos y argentinas. Pero no todos festejamos de la misma manera, no todos podemos... así que en este episodio te cuento como viví el festejo con mi implante auditivo.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/6tjrUbBInLNo0YPsPMzl0h",
+      "youtube": "https://www.youtube.com/watch?v=P8ADDrJxY4s&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=12&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "12",
+    "titulo": "Hipoacusia Súbita (o Sordera Súbita)",
+    "categorias": ["01"],
+    "invitados": [
+      {
+        "apellido": "Ontivero",
+        "nombre": "Paula",
+        "prefijo": "Dra.",
+        "imagen": "",
+        "descripcion": "Médica otorrinolaringóloga, especialista en cirugía de oído e implantes cocleares."
+      }
+    ],
+    "descripcion": "Perder de golpe la audición te desconcierta, te sorprende. No es fácil y hasta parece no tener explicación. De hecho, en muchos casos no la tiene. Hoy conversamos con la Dra. Paula Ontivero sobre la hipoacusia súbita, también conocida como sordera súbita. Hablamos sobre causas, síntomas, tratamientos, factores de aparición, qué hacer, cuales son los mayores problemas y algunas cosas más...",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/48WoyQeBjzdbqWA0CkFgT7",
+      "youtube": "https://www.youtube.com/watch?v=JXeI198Z1y8&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=13&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "13",
+    "titulo": "Detección temprana de hipoacusia: bebes, niños, jóvenes y adultos",
+    "categorias": ["01"],
+    "invitados": [
+      {
+        "apellido": "Fanelli",
+        "nombre": "Karina",
+        "prefijo": "Lic.",
+        "imagen": "",
+        "descripcion": "Licenciada en Fonoaudiología, especialista en Audiología, docente de la licenciatura en fonoaudiología en la UBA y USAL."
+      }
+    ],
+    "descripcion": "Detectar para poder actuar y elegir como queremos vivir, si quedarnos como estamos, mejorar o qué hacer... Detectar TEMPRANAMENTE en niños, jóvenes y adultos es FUNDAMENTAL. En este episodio, la Lic. Karina Fanelli nos cuenta por qué y cómo.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/2mlCgpTNiErPke6HfNMQiW",
+      "youtube": "https://www.youtube.com/watch?v=XD6U2dEApfU&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=14&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "14",
+    "titulo": "Hipoacusia Unilateral o Sordera Unilateral",
+    "categorias": ["01", "04"],
+    "invitados": [
+      {
+        "apellido": "Alcalá Rueda",
+        "nombre": "Ignacio",
+        "prefijo": "Dr.",
+        "imagen": "",
+        "descripcion": "Médico Otorrinolaringólogo de Madrid, trabaja en la salud pública y difunde contenido médico en redes sociales."
+      }
+    ],
+    "descripcion": "Vivir con un solo oído puede ser todo un desafío. Las emociones, el aprendizaje y el trabajo pueden ser afectadas. /nEn este episodio, el Dr. Ignacio Alcalá, médico otorrinolaringólogo de Madrid nos cuenta causas, desafíos, tratamientos, opciones y cómo es vivir con un solo oído, que es su caso además de ser otorrino.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/7zzgBkUxNi5WMXGGbJ6vsB",
+      "youtube": "https://www.youtube.com/watch?v=8XfBYVIWilg&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=16&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "15",
+    "titulo": "Acúfenos o Tinnitus",
+    "categorias": ["01"],
+    "invitados": [
+      {
+        "apellido": "Dominguez",
+        "nombre": "Susana",
+        "imagen": "",
+        "descripcion": ""
+      },
+      {
+        "apellido": "Sitzer",
+        "nombre": "Yanina",
+        "imagen": "",
+        "descripcion": ""
+      }
+    ],
+    "descripcion": "Tener un ruido molesto de fondo todo el tiempo es horrible, por momentos dificulta la vida, el sueño, el estudio, el trabajo... no es fácil, para nada. En algunos lugares se le dice acúfeno, en otros zumbido y en inglés Tinnitus.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/3PtYp7IURP1sjcqXifcYTb",
+      "youtube": "https://www.youtube.com/watch?v=kjBRmZnclrQ&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=16&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "16",
+    "titulo": "A la salida de un recital - Anécdota",
+    "categorias": ["03", "02"],
+    "invitados": [],
+    "descripcion": "Te cuento una anécdota cuando salí de un recital que me dejó con la boca abierta y me transformó por un segundo...",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/5k8TNxSyIwLj2BxDipiyzS",
+      "youtube": "https://www.youtube.com/watch?v=ylAksw5PbRU&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=17&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "17",
+    "titulo": "Colesteatoma - Dr. Daniel de la Torre Diamante",
+    "categorias": [],
+    "invitados": [
+      {
+        "apellido": "Diamante",
+        "nombre": "Daniel de la Torre",
+        "prefijo": "Dr.",
+        "imagen": "",
+        "descripcion": "Médico Otorrinolaringólogo, cirujano de oído, docente de la Universidad de El Salvador."
+      }
+    ],
+    "descripcion": "El colesteatoma es una patología que produce distintos síntomas, entre ellos perdida auditiva (hipoacusia o sordera) y es fundamental detectarlo y tratarlo lo antes posible. El riesgo no solo es auditivo, se ponen en juego otras cosas también que el Dr. Daniel de la Torre Diamante explica muy bien en este episodio. También hablamos de que hacer, como y cuando.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/1urRStNDi0Lmsvok96dDx8",
+      "youtube": "https://www.youtube.com/watch?v=0H41TtL0qf4&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=18&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "18",
+    "titulo": "Consejo de una madre",
+    "categorias": ["04"],
+    "invitados": [
+      {
+        "apellido": "Mamá de Luqui",
+        "nombre": "Paula",
+        "imagen": "",
+        "descripcion": "Pau es la mamá de Luqui, nacido con hipoacusia bilateral profunda y usuario de implante coclear de ambos oidos."
+      }
+    ],
+    "descripcion": "La hipoacusia infantil es más común de lo que pensas. En el episodio 10 de 'Sordo pero no mudo', hablamos de la experiencia de Pau, con su hijo que nació con un diagnóstico de hipoacusia bilateral profunda o dicho en otras palabras: nació sordo./nEn este episodio, comenzamos a hablar desde la pregunta '¿Qué consejo le darías a una madre cuyo hijo nace sordo?' y esto fue lo que salió.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/7c2jOKG6rejRXrL2qKmQlA",
+      "youtube": "https://www.youtube.com/watch?v=2nsTv_Z6d3A&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=19&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "19",
+    "titulo": "Qué hacer si no funcionó el tratamiento de la hipoacusia súbita (o sordera súbita)",
+    "categorias": [],
+    "invitados": [
+      {
+        "apellido": "Ontivero",
+        "nombre": "Paula",
+        "prefijo": "Dra.",
+        "imagen": "",
+        "descripcion": "Médica otorrinolaringóloga, especialista en cirugía de oído e implantes cocleares."
+      }
+    ],
+    "descripcion": "En el episodio 12 hablamos todo sobre la hipoacusia súbita y su tratamiento. Quisimos entender y saber mas a fondo hasta llegar a sus tratamientos. Pero hay una realidad y es que no siempre uno llega a revertir esa situación y es donde hay que tomar una decisión./mEn este episodio hablamos de las opciones que existen para restablecer la función auditiva después de una hipoacusia súbita o sordera súbita.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/6fGlXncuqAYL9YYKBaCfMz",
+      "youtube": "https://www.youtube.com/watch?v=KaiMQkeuq-A&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=20&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "20",
+    "titulo": "Recuerdo de mi CIRUGÍA FALLIDA a los 16 años",
+    "categorias": ["02", "03"],
+    "invitados": [],
+    "descripcion": "Este texto lo escribí 3 meses después de mi primer cirugía de oído a los 16 años, cuando apenas tenía un 20% de pérdida auditiva. Me tenían que hacer una cirugía super simple que terminó en complicación tras complicación y perdí un 95% de audición.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/0scNJzimTT5GmuOcmuM75v",
+      "youtube": "https://www.youtube.com/watch?v=a9qcXmlyt-Y&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=21&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "21",
+    "titulo": "Nómades con implante coclear",
+    "categorias": [],
+    "invitados": [
+      {
+        "apellido": "y Nacho",
+        "nombre": "Gise",
+        "imagen": "",
+        "descripcion": "Padre y madre de Jaz, nacida prematura y desarrolló ototoxicidad a los remedios en neonatología, hoy es usuaria de implante coclear"
+      }
+    ],
+    "descripcion": "Jaz nació prematura y luego adquirió una hipoacusia bilateral profunda, fue implantada bilateralmente de implantes cocleares y junto a Gise y Nacho, sus papás, empezó a vivir viajando. En este episodio, te cuentan su historia, su vida y su mundo.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/1kT9o3W1zSFnJh7y3Ugg5i",
+      "youtube": "https://www.youtube.com/watch?v=bw5SoivlOXQ&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=22&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "22",
+    "titulo": "Leyes en salud y discapacidad",
+    "categorias": ["02"],
+    "invitados": [
+      {
+        "apellido": "Torres Lopez",
+        "nombre": "Juan Bautista",
+        "prefijo": "Dr.",
+        "imagen": "",
+        "descripcion": "Abogado de la Universidad de Buenos Aires y Periodista. Columnista en Infobae."
+      }
+    ],
+    "descripcion": "Hoy un episodio jurídico y diferente. No es una clase de derecho, sino que una conversación muy interesante y que deja mucho para pensar sobre las leyes en general.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/6wyb25rEpgdGsOhUa0l2MI",
+      "youtube": "https://www.youtube.com/watch?v=P5_MxlUqinA&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=23&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "23",
+    "titulo": "Otosclerosis y Estapedectomía - Dr. Eduardo Hocsman",
+    "categorias": ["01"],
+    "invitados": [
+      {
+        "apellido": "Hocsman",
+        "nombre": "Eduardo",
+        "imagen": "",
+        "descripcion": "Médico cirujano otorrinolaringólogo, especialista en patología de oído.",
+        "prefijo": "Dr."
+      }
+    ],
+    "descripcion": "La otosclerosis es una enfermedad más común de lo que pensás... el Dr. la comenta como 'apasionante'. En este episodio hablamos de qué es, cuando y a quién le ocurre, consejos, cuidados, avances y al final también sobre su cirugía: la estapedectomía.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/08PL6AUeXXztg3pLltoyd5",
+      "youtube": "https://www.youtube.com/watch?v=48zaNdpkfrQ&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=24&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "24",
+    "titulo": "Crisis, resiliencia y la historia de un padre",
+    "categorias": ["02", "04"],
+    "invitados": [
+      {
+        "apellido": "Montalvo",
+        "nombre": "David",
+        "imagen": "",
+        "descripcion": "Conferencista, tanatólogo, coach de cambio y resiliencia, padre de una niña hipoacúsica."
+      }
+    ],
+    "descripcion": "Un episodio hermoso. David es padre de Balbi, una niña hipoacusica bilateral que en este momento sigue perdiendo audición. No es facil recibir el diagnostico de perdida auditiva de tu hija y en este caso se choca con el trabajo de David: 'a mi me pagan por escuchar y me pagan por hablar'.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/7h6JpurHbyBgNggEvG7pSA",
+      "youtube": "https://www.youtube.com/watch?v=-ZUchSHWVCA&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=26&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "25",
+    "titulo": "Vínculos, citas y parejas",
+    "categorias": ["02"],
+    "invitados": [
+      {
+        "apellido": "Buscio",
+        "nombre": "Sol",
+        "prefijo": "Lic.",
+        "imagen": "",
+        "descripcion": "Psicóloga, especialista en vínculos y ansiedad."
+      }
+    ],
+    "descripcion": "Conversamos puntualmente sobre las primeras citas, lo que mostramos de nosotros y por qué, cómo construimos nuestro autoestima, qué merecemos y que no, que negociamos y que no negociamos... si amamos y sabemos desde antes de amar que es lo que vamos a amar o simplemente nos sorprendemos... quienes somos, que somos, que merecemos... y algunos temas más.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/5XgbAWma7NRo66PYjxtf0U",
+      "youtube": "https://www.youtube.com/watch?v=eSDmoFqKHTk&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=27&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "26",
+    "titulo": "5G, celulares y tumores [importante] - Dr. Daniel Orfila",
+    "categorias": ["01"],
+    "invitados": [
+      {
+        "apellido": "Orfila",
+        "nombre": "Daniel",
+        "imagen": "",
+        "prefijo": "Dr.",
+        "descripcion": "Médico cirujano otorrinolaringólogo. Especialista en tumor de la vía auditiva, miembro de CIPRACEM."
+      }
+    ],
+    "descripcion": "Aunque miremos para otro lado, sabemos que hay ciertos riesgos y todos escuchamos alguna vez a alguien decir que no hay que dormir con el celular en la mesa de luz... la idea de este episodio es informar con foco en cuidar nuestra salud mientras que seguimos viviendo con la tecnología.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/5ZELEnWVRmu28tgornb4c3",
+      "youtube": "https://www.youtube.com/watch?v=IkI8jq4i88Q&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=28&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  },
+  {
+    "numero": "27",
+    "titulo": "Consejos sobre ACÚFENOS o TINNITUS",
+    "categorias": ["01"],
+    "invitados": [
+      {
+        "apellido": "Dominguez",
+        "nombre": "Susana",
+        "imagen": "",
+        "descripcion": ""
+      },
+      {
+        "apellido": "Sitzer",
+        "nombre": "Yanina",
+        "imagen": "",
+        "descripcion": ""
+      }
+    ],
+    "descripcion": "Este episodio es un agregado del episodio 15 donde hablamos exclusivamente de acúfenos o tinnitus./n En este episodio te dejamos algunos consejos para vivir con acúfenos, tanto si vos los padeces como si un amigo, familiar o pareja los tiene.",
+    "transcripcion": "",
+    "links": {
+      "spotify": "https://open.spotify.com/episode/2VbpNkS9f0u2REnO2qVdIZ",
+      "youtube": "https://www.youtube.com/watch?v=_F_pc0Jddv4&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=28&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "apple": "",
+      "amazon": "",
+      "google": ""
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "01",
+    "nombre": "Ciencia",
+    "slug": "ciencia",
+    "imagen": "/assets/categorias/",
+    "color": "#E86985",
+    "otras-categorias": [
+      {
+        "id": "02"
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "nombre": "Reflexiones",
+    "slug": "reflexiones",
+    "imagen": "/assets/categorias/",
+    "color": "#83A9F0",
+    "otras-categorias": [
+      {
+        "id": "02"
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "nombre": "Experiencias",
+    "slug": "experiencias",
+    "imagen": "/assets/categorias/",
+    "color": "#F0532E",
+    "otras-categorias": [
+      {
+        "id": "02"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "nombre": "Historias",
+    "slug": "historias",
+    "imagen": "/assets/categorias/",
+    "color": "#F8B600",
+    "otras-categorias": [
+      {
+        "id": "02"
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "nombre": "Implante coclear",
+    "slug": "implante-coclear",
+    "imagen": "/assets/categorias/implante-coclear.svg",
+    "color": "#E86985",
+    "otras-categorias": [
+      {
+        "id": "02"
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "nombre": "Patologías",
+    "slug": "patologias",
+    "imagen": "/assets/categorias/patologias.svg",
+    "color": "#83A9F0",
+    "otras-categorias": []
+  },
+  {
+    "id": "07",
+    "nombre": "psicologia",
+    "slug": "psicologia",
+    "imagen": "/assets/categorias/",
+    "color": "#F0532E",
+    "otras-categorias": []
+  },
+  {
+    "id": "08",
+    "nombre": "15 minutos",
+    "slug": "15-minutos",
+    "imagen": "/assets/categorias/",
+    "color": "#F8B600",
+    "otras-categorias": []
+  },
+  {
+    "id": "09",
+    "nombre": "Audífonos",
+    "slug": "audifonos",
+    "imagen": "/assets/categorias/audifonos.svg",
+    "color": "#E86985",
+    "otras-categorias": []
+  },
+  {
+    "id": "10",
+    "nombre": "Personas con hipoacusia",
+    "slug": "personas-con-hipoacusia",
+    "imagen": "/assets/categorias/",
+    "color": "#83A9F0",
+    "otras-categorias": []
+  },
+  {
+    "id": "11",
+    "nombre": "Historias de padres y madres",
+    "slug": "historias-de-padres-y-madres",
+    "imagen": "/assets/categorias/",
+    "color": "#F0532E",
+    "otras-categorias": []
+  }
+]

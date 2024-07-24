@@ -1,4 +1,4 @@
-import type IconProps from '../../types/IconProps';
+import { type IconProps } from '../../types/Types';
 
 export default function VoiceIcon({ className }: IconProps) {
   return (

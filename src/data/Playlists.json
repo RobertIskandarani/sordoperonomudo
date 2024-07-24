@@ -1,0 +1,34 @@
+[
+  {
+    "id": "00",
+    "nombre": "Tengo una pérdida auditiva",
+    "slug": "tengo-hipoacusia",
+    "imagen": "/assets/playlists/reproduccion1.svg",
+    "descripcion": "",
+    "episodios": ["01", "02", "25", "03", "11", "08", "16", "15", "22", "24"]
+  },
+  {
+    "id": "01",
+    "nombre": "No puedo aceptar mi hipoacusia",
+    "slug": "no-acepto-mi-hipoacusia",
+    "imagen": "/assets/playlists/reproduccion2.svg",
+    "descripcion": "",
+    "episodios": ["01", "02", "24", "08", "25", "20"]
+  },
+  {
+    "id": "02",
+    "nombre": "Mi hijo nació sordo",
+    "slug": "mi-hijo-nacio-sordo",
+    "imagen": "/assets/playlists/reproduccion3.svg",
+    "descripcion": "",
+    "episodios": ["10", "01", "24", "22", "04", "21", "08"]
+  },
+  {
+    "id": "03",
+    "nombre": "Tuve una hipoacusia súbita",
+    "slug": "tuve-una-hipoacusia-subita",
+    "imagen": "/assets/playlists/reproduccion4.svg",
+    "descripcion": "",
+    "episodios": ["12", "14", "01", "02", "08", "15", "22", "28"]
+  }
+]
