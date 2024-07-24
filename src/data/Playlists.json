@@ -4,7 +4,7 @@
     "nombre": "Tengo una pérdida auditiva",
     "slug": "tengo-hipoacusia",
     "imagen": "/assets/playlists/reproduccion1.svg",
-    "descripcion": "",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat cumque nesciunt minima hic voluptatibus incidunt nam odio reprehenderit eum totam expedita sunt quidem nobis tempora rerum, libero maiores aliquid sequi quis blanditiis in doloribus, sint ab ullam! Fuga molestiae asperiores nihil natus eaque magni ratione? Ex deserunt a dolores eveniet.",
     "episodios": ["01", "02", "25", "03", "11", "08", "16", "15", "22", "24"]
   },
   {
@@ -12,7 +12,7 @@
     "nombre": "No puedo aceptar mi hipoacusia",
     "slug": "no-acepto-mi-hipoacusia",
     "imagen": "/assets/playlists/reproduccion2.svg",
-    "descripcion": "",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat cumque nesciunt minima hic voluptatibus incidunt nam odio reprehenderit eum totam expedita sunt quidem nobis tempora rerum, libero maiores aliquid sequi quis blanditiis in doloribus, sint ab ullam! Fuga molestiae asperiores nihil natus eaque magni ratione? Ex deserunt a dolores eveniet.",
     "episodios": ["01", "02", "24", "08", "25", "20"]
   },
   {
@@ -20,7 +20,7 @@
     "nombre": "Mi hijo nació sordo",
     "slug": "mi-hijo-nacio-sordo",
     "imagen": "/assets/playlists/reproduccion3.svg",
-    "descripcion": "",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat cumque nesciunt minima hic voluptatibus incidunt nam odio reprehenderit eum totam expedita sunt quidem nobis tempora rerum, libero maiores aliquid sequi quis blanditiis in doloribus, sint ab ullam! Fuga molestiae asperiores nihil natus eaque magni ratione? Ex deserunt a dolores eveniet.",
     "episodios": ["10", "01", "24", "22", "04", "21", "08"]
   },
   {
@@ -28,7 +28,7 @@
     "nombre": "Tuve una hipoacusia súbita",
     "slug": "tuve-una-hipoacusia-subita",
     "imagen": "/assets/playlists/reproduccion4.svg",
-    "descripcion": "",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat cumque nesciunt minima hic voluptatibus incidunt nam odio reprehenderit eum totam expedita sunt quidem nobis tempora rerum, libero maiores aliquid sequi quis blanditiis in doloribus, sint ab ullam! Fuga molestiae asperiores nihil natus eaque magni ratione? Ex deserunt a dolores eveniet.",
     "episodios": ["12", "14", "01", "02", "08", "15", "22", "28"]
   }
 ]
