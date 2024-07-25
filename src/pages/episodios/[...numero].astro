@@ -53,8 +53,8 @@ const {
     </div>
     <div class='w-[85%] flex flex-col gap-10'>
       <p class='text-center whitespace-pre-line'>{descripcion}</p>
-      <Escuchalo links={links} />
     </div>
+    <Escuchalo links={links} />
     {invitados?.map((invitado) => <Invitados invitado={invitado} />)}
     {
       transcripcion && (
