@@ -3,11 +3,20 @@
     "id": "01",
     "nombre": "Ciencia",
     "slug": "ciencia",
-    "imagen": "/assets/categorias/",
+    "imagen": "/assets/categorias/ciencia.svg",
     "color": "#E86985",
     "otrasCategorias": [
       {
         "id": "02"
+      },
+      {
+        "id": "04"
+      },
+      {
+        "id": "08"
+      },
+      {
+        "id": "11"
       }
     ]
   },
@@ -15,11 +24,20 @@
     "id": "02",
     "nombre": "Reflexiones",
     "slug": "reflexiones",
-    "imagen": "/assets/categorias/",
+    "imagen": "/assets/categorias/reflexion.svg",
     "color": "#83A9F0",
     "otrasCategorias": [
       {
-        "id": "02"
+        "id": "08"
+      },
+      {
+        "id": "03"
+      },
+      {
+        "id": "04"
+      },
+      {
+        "id": "10"
       }
     ]
   },
@@ -27,19 +45,25 @@
     "id": "03",
     "nombre": "Experiencias",
     "slug": "experiencias",
-    "imagen": "/assets/categorias/",
+    "imagen": "/assets/categorias/experiencias.svg",
     "color": "#F0532E",
     "otrasCategorias": [
       {
         "id": "02"
+      },
+      {
+        "id": "07"
+      },
+      {
+        "id": "10"
       }
     ]
   },
   {
     "id": "04",
-    "nombre": "Historias",
+    "nombre": "Historias de personas",
     "slug": "historias",
-    "imagen": "/assets/categorias/",
+    "imagen": "/assets/categorias/historias.svg",
     "color": "#F8B600",
     "otrasCategorias": [
       {
@@ -50,6 +74,12 @@
       },
       {
         "id": "06"
+      },
+      {
+        "id": "11"
+      },
+      {
+        "id": "10"
       }
     ]
   },
@@ -61,7 +91,16 @@
     "color": "#E86985",
     "otrasCategorias": [
       {
-        "id": "02"
+        "id": "06"
+      },
+      {
+        "id": "09"
+      },
+      {
+        "id": "10"
+      },
+      {
+        "id": "11"
       }
     ]
   },
@@ -71,23 +110,56 @@
     "slug": "patologias",
     "imagen": "/assets/categorias/patologias.svg",
     "color": "#83A9F0",
-    "otrasCategorias": []
+    "otrasCategorias": [
+      {
+        "id": "01"
+      },
+      {
+        "id": "08"
+      },
+      {
+        "id": "10"
+      },
+      {
+        "id": "04"
+      }
+    ]
   },
-  {
+    {
     "id": "07",
-    "nombre": "psicologia",
-    "slug": "psicologia",
-    "imagen": "/assets/categorias/",
+    "nombre": "Para disfrutar de fondo",
+    "slug": "disfrutar-de-fondo",
+    "imagen": "/assets/categorias/de-fondo.svg",
     "color": "#F0532E",
-    "otrasCategorias": []
+    "otrasCategorias": [
+      {
+        "id": "04"
+      },
+      {
+        "id": "10"
+      }
+    ]
   },
   {
     "id": "08",
     "nombre": "15 minutos",
     "slug": "15-minutos",
-    "imagen": "/assets/categorias/",
+    "imagen": "/assets/categorias/15-minutos.svg",
     "color": "#F8B600",
-    "otrasCategorias": []
+    "otrasCategorias": [
+      {
+        "id": "02"
+      },
+      {
+        "id": "04"
+      },
+      {
+        "id": "10"
+      },
+      {
+        "id": "07"
+      }
+    ]
   },
   {
     "id": "09",
@@ -95,22 +167,53 @@
     "slug": "audifonos",
     "imagen": "/assets/categorias/audifonos.svg",
     "color": "#E86985",
-    "otrasCategorias": []
+    "otrasCategorias": [
+      {
+        "id": "05"
+      },
+      {
+        "id": "10"
+      },
+      {
+        "id": "11"
+      }
+    ]
   },
   {
     "id": "10",
     "nombre": "Personas con hipoacusia",
     "slug": "personas-con-hipoacusia",
-    "imagen": "/assets/categorias/",
+    "imagen": "/assets/categorias/hipoacusicos.svg",
     "color": "#83A9F0",
-    "otrasCategorias": []
+    "otrasCategorias": [
+      {
+        "id": "11"
+      },
+      {
+        "id": "02"
+      },
+      {
+        "id": "01"
+      },
+      {
+        "id": "04"
+      }
+    ]
   },
   {
     "id": "11",
     "nombre": "Historias de padres y madres",
     "slug": "historias-de-padres-y-madres",
-    "imagen": "/assets/categorias/",
+    "imagen": "/assets/categorias/padres-madres.svg",
     "color": "#F0532E",
-    "otrasCategorias": []
+    "otrasCategorias": [
+      {
+        "id": "04"
+      },
+      {
+        "id": "01"
+      }
+    ]
   }
+
 ]

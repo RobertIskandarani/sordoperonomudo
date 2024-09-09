@@ -1,10 +1,10 @@
 [
   {
     "numero": "00",
-    "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "portada": "/assets/episodios/00.svg",
+    "color": "blue",
     "titulo": "Trailer - Bienvenida al Podcast",
-    "categorias": ["02"],
+    "categorias": ["02", "07", "08"],
     "invitados": [],
     "descripcion": "Te doy la bienvenida al podcast, te cuento que vas a encontrar, quién soy yo y como navegarlo de una manera fácil y a tu gusto.",
     "transcripcion": "",
@@ -13,15 +13,16 @@
       "youtube": "https://www.youtube.com/watch?v=8oxevcMD8nI&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "8oxevcMD8nI"
     }
   },
   {
     "numero": "01",
-    "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "portada": "/assets/episodios/01.svg",
+    "color": "blue",
     "titulo": "Lo peor que me pasó en la vida es también lo mejor",
-    "categorias": ["02", "03"],
+    "categorias": ["02", "03", "08", "13"],
     "invitados": [],
     "descripcion": "En este primer episodio, te cuento QUÉ fue lo peor que me pasó en la vida y qué me hizo perder. Pero también, te cuento que hice con eso.",
     "transcripcion": "",
@@ -30,7 +31,8 @@
       "youtube": "https://www.youtube.com/watch?v=CLH249yUo9c&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=2&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "CLH249yUo9c"
     }
   },
   {
@@ -38,7 +40,7 @@
     "portada": "/assets/episodios/02.svg",
     "color": "blue",
     "titulo": "Ansiedad e hipoacusia: La necesidad de controlar y saber qué me van a decir para no quedar como un tonto.",
-    "categorias": ["02", "03"],
+    "categorias": ["02", "03", "08", "13"],
     "invitados": [],
     "descripcion": "Imaginarme mil escenarios posibles de una conversación. Que decir, que me van a responder y que voy a responder yo. No querer quedar como un tonto por no escuchar y querer responder rápido y acertado. Pasa mucho, es parte... no siempre entendemos y muchas veces nos da 'cosa' preguntar un simple ¿qué?. \n No nos da vergüenza porque sea una mala palabra, viene de un cansancio de pedir y pedir que se repitan las cosas. Nos aleja esa sensación.\nEn este capitulo te cuento una anécdota mía, donde la ansiedad se apoderó de mi. Donde casi que tuve MIEDO de que una persona me hable. De tener que escuchar un simple '¿cómo estás?'\nEs clave el acompañamiento de un terapeuta (psicólogo). A mi me ayuda muchísimo. Obvio que también buenas compañías, pero no siempre se puede tenerlas y no siempre uno se siente cómodo.\nLa ansiedad que puede provocar la hipoacusia puede ser grande, puede darnos miedo pero si la conocemos, poco a poco podemos ir adoptándola como parte nuestra y si la entendemos, con ayuda extra tengo fe de que la podemos ir moldeando y trabajando para que no nos desespere.",
     "transcripcion": "",
@@ -47,15 +49,16 @@
       "youtube": "https://www.youtube.com/watch?v=3f8-mkCwXvs&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=3&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "3f8-mkCwXvs"
     }
   },
   {
     "numero": "03",
-    "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "portada": "/assets/episodios/03.svg",
+    "color": "blue",
     "titulo": "El Waze y la hipoacusia: pensar donde estamos, para ver cómo seguir!",
-    "categorias": ["02"],
+    "categorias": ["02", "03", "04", "08"],
     "invitados": [],
     "descripcion": "La hipoacusia a veces nos desconcierta, nos sorprende. Nos hace irnos, alejarnos… separarnos de lo que queremos, pero ni sabemos que es lo que queremos. La hipoacusia nos da ansiedad, nos saca del presente para ir a buscar el futuro. Nos hace olvidarnos qué hay mucho en la vida… se hace una barrera comunicacional tan grande que nos olvidamos de qué hay alternativas. De la nada me di cuenta que el Waze siempre está bien, siempre vas a llegar si pones el GPS. ¿Y sabes por qué? Porque SABE EL DESTINO. Sabe a donde queres llegar, lo que queres lograr, donde queres estar. Eso, te hace ir para adelante e ir por eso. Esa información es oro.",
     "transcripcion": "",
@@ -64,15 +67,16 @@
       "youtube": "https://www.youtube.com/watch?v=mCAPyn8dcbY&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=4&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "mCAPyn8dcbY"
     }
   },
   {
     "numero": "04",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/04.svg",
     "color": "pink",
     "titulo": "Rehabilitación Auditiva (TAV)",
-    "categorias": ["01"],
+    "categorias": ["01", "05", "12"],
     "invitados": [
       {
         "apellido": "Furmanski",
@@ -88,15 +92,16 @@
       "youtube": "https://www.youtube.com/watch?v=posPmtdLTFM&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=5&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "posPmtdLTFM"
     }
   },
   {
     "numero": "05",
-    "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "portada": "/assets/episodios/05.svg",
+    "color": "yellow",
     "titulo": "Vivir en guerra en Israel, siendo hipoacúsica",
-    "categorias": ["04"],
+    "categorias": ["04", "07", "10"],
     "invitados": [
       {
         "apellido": "S",
@@ -109,18 +114,19 @@
     "transcripcion": "",
     "links": {
       "spotify": "https://open.spotify.com/episode/1gtRcYb0BB9IFZuxMyoUUO",
-      "youtube": "https://www.youtube.com/watch?v=Dks35UW1DIo&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=6&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
+      "youtube": "https://www.youtube.com/watch?v=8oxevcMD8nI&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=6&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "8oxevcMD8nI"
     }
   },
   {
     "numero": "06",
-    "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "portada": "/assets/episodios/06.svg",
+    "color": "blue",
     "titulo": "La distancia de la perfección sonora",
-    "categorias": ["02"],
+    "categorias": ["02", "08"],
     "invitados": [],
     "descripcion": "Hay infinitas experiencias, infinitos sistemas auditivos, pero hay una norma, algo que define que es un sistema auditivo tipo. No todos los tenemos y de ahí la distancia.\nPara encontrar herramientas primero hay que buscarlas.",
     "transcripcion": "",
@@ -129,15 +135,16 @@
       "youtube": "https://www.youtube.com/watch?v=pnD2ZIe8hwc&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=7&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "pnD2ZIe8hwc"
     }
   },
   {
     "numero": "07",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/07.svg",
     "color": "pink",
     "titulo": "Selección de Audífonos",
-    "categorias": ["01"],
+    "categorias": ["01", "09", "12"],
     "invitados": [
       {
         "apellido": "Fanelli",
@@ -154,15 +161,16 @@
       "youtube": "https://www.youtube.com/watch?v=Tk_kfccS9Sc&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=8&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "Tk_kfccS9Sc"
     }
   },
   {
     "numero": "08",
-    "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "portada": "/assets/episodios/08.svg",
+    "color": "blue",
     "titulo": "Culpa y Aceptación - Biodescodificación",
-    "categorias": ["01", "02"],
+    "categorias": ["01", "02", "13"],
     "invitados": [
       {
         "apellido": "Vazquez Kunz",
@@ -179,15 +187,16 @@
       "youtube": "https://www.youtube.com/watch?v=gGyj3OceGlM&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=9&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "gGyj3OceGlM"
     }
   },
   {
     "numero": "09",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/09.svg",
     "color": "pink",
     "titulo": "Calibración de audífonos",
-    "categorias": ["01"],
+    "categorias": ["01", "09"],
     "invitados": [
       {
         "apellido": "Fanelli",
@@ -204,15 +213,16 @@
       "youtube": "https://www.youtube.com/watch?v=H0tt0FIuQIQ&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=10&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "H0tt0FIuQIQ"
     }
   },
   {
     "numero": "10",
-    "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "portada": "/assets/episodios/10.svg",
+    "color": "yellow",
     "titulo": "'Mi hijo nació sordo'",
-    "categorias": ["04"],
+    "categorias": ["04", "11", "09", "07", "05"],
     "invitados": [
       {
         "apellido": "Mamá de Luqui",
@@ -228,15 +238,16 @@
       "youtube": "https://www.youtube.com/watch?v=21opwn5wiCU&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=11&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "21opwn5wiCU"
     }
   },
   {
     "numero": "11",
-    "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "portada": "/assets/episodios/11.svg",
+    "color": "red",
     "titulo": "El día que Argentina ganó el mundial",
-    "categorias": ["03", "02"],
+    "categorias": ["03", "02", "05", "07", "13", "08"],
     "invitados": [],
     "descripcion": "Cuando Argentina ganó el mundial, fuimos con mis amigos al Obelisco a festejar junto a millones de argentinos y argentinas. Pero no todos festejamos de la misma manera, no todos podemos... así que en este episodio te cuento como viví el festejo con mi implante auditivo.",
     "transcripcion": "",
@@ -245,7 +256,8 @@
       "youtube": "https://www.youtube.com/watch?v=P8ADDrJxY4s&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=12&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "P8ADDrJxY4s"
     }
   },
   {
@@ -253,7 +265,7 @@
     "portada": "/assets/episodios/12.svg",
     "color": "pink",
     "titulo": "Hipoacusia Súbita (o Sordera Súbita)",
-    "categorias": ["01"],
+    "categorias": ["01", "12", "06"],
     "invitados": [
       {
         "apellido": "Ontivero",
@@ -270,12 +282,13 @@
       "youtube": "https://www.youtube.com/watch?v=JXeI198Z1y8&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=13&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "JXeI198Z1y8"
     }
   },
   {
     "numero": "13",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/13.svg",
     "color": "pink",
     "titulo": "Detección temprana de hipoacusia: bebes, niños, jóvenes y adultos",
     "categorias": ["01"],
@@ -295,7 +308,8 @@
       "youtube": "https://www.youtube.com/watch?v=XD6U2dEApfU&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=14&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "XD6U2dEApfU"
     }
   },
   {
@@ -303,7 +317,7 @@
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "Hipoacusia Unilateral o Sordera Unilateral",
-    "categorias": ["01", "04"],
+    "categorias": ["01", "04", "10", "06"],
     "invitados": [
       {
         "apellido": "Alcalá Rueda",
@@ -320,7 +334,8 @@
       "youtube": "https://www.youtube.com/watch?v=8XfBYVIWilg&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=16&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "8XfBYVIWilg"
     }
   },
   {
@@ -328,7 +343,7 @@
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "Acúfenos o Tinnitus",
-    "categorias": ["01"],
+    "categorias": ["01", "12", "06"],
     "invitados": [
       {
         "apellido": "Dominguez",
@@ -350,15 +365,16 @@
       "youtube": "https://www.youtube.com/watch?v=kjBRmZnclrQ&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=16&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "kjBRmZnclrQ"
     }
   },
   {
     "numero": "16",
     "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "color": "blue",
     "titulo": "A la salida de un recital - Anécdota",
-    "categorias": ["03", "02"],
+    "categorias": ["03", "02", "08", "10", "07"],
     "invitados": [],
     "descripcion": "Te cuento una anécdota cuando salí de un recital que me dejó con la boca abierta y me transformó por un segundo...",
     "transcripcion": "",
@@ -367,7 +383,8 @@
       "youtube": "https://www.youtube.com/watch?v=ylAksw5PbRU&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=17&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "ylAksw5PbRU"
     }
   },
   {
@@ -375,7 +392,7 @@
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "Colesteatoma - Dr. Daniel de la Torre Diamante",
-    "categorias": [],
+    "categorias": ["01", "06"],
     "invitados": [
       {
         "apellido": "Diamante",
@@ -392,15 +409,16 @@
       "youtube": "https://www.youtube.com/watch?v=0H41TtL0qf4&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=18&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "0H41TtL0qf4"
     }
   },
   {
     "numero": "18",
     "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "color": "yellow",
     "titulo": "Consejo de una madre",
-    "categorias": ["04"],
+    "categorias": ["04", "11"],
     "invitados": [
       {
         "apellido": "Mamá de Luqui",
@@ -416,7 +434,8 @@
       "youtube": "https://www.youtube.com/watch?v=2nsTv_Z6d3A&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=19&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "2nsTv_Z6d3A"
     }
   },
   {
@@ -424,7 +443,7 @@
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "Qué hacer si no funcionó el tratamiento de la hipoacusia súbita (o sordera súbita)",
-    "categorias": [],
+    "categorias": ["01", "05"],
     "invitados": [
       {
         "apellido": "Ontivero",
@@ -441,15 +460,16 @@
       "youtube": "https://www.youtube.com/watch?v=KaiMQkeuq-A&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=20&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "KaiMQkeuq"
     }
   },
   {
     "numero": "20",
     "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "color": "red",
     "titulo": "Recuerdo de mi CIRUGÍA FALLIDA a los 16 años",
-    "categorias": ["02", "03"],
+    "categorias": ["02", "03", "10"],
     "invitados": [],
     "descripcion": "Este texto lo escribí 3 meses después de mi primer cirugía de oído a los 16 años, cuando apenas tenía un 20% de pérdida auditiva. Me tenían que hacer una cirugía super simple que terminó en complicación tras complicación y perdí un 95% de audición.",
     "transcripcion": "",
@@ -458,15 +478,16 @@
       "youtube": "https://www.youtube.com/watch?v=a9qcXmlyt-Y&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=21&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "a9qcXmlyt-Y"
     }
   },
   {
     "numero": "21",
     "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "color": "yellow",
     "titulo": "Nómades con implante coclear",
-    "categorias": [],
+    "categorias": ["04", "11", "07"],
     "invitados": [
       {
         "apellido": "y Nacho",
@@ -482,7 +503,8 @@
       "youtube": "https://www.youtube.com/watch?v=bw5SoivlOXQ&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=22&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "bw5SoivlOXQ"
     }
   },
   {
@@ -490,7 +512,7 @@
     "portada": "/assets/episodios/22.svg",
     "color": "pink",
     "titulo": "Leyes en salud y discapacidad",
-    "categorias": ["02"],
+    "categorias": ["02", "01"],
     "invitados": [
       {
         "apellido": "Torres Lopez",
@@ -507,7 +529,8 @@
       "youtube": "https://www.youtube.com/watch?v=P5_MxlUqinA&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=23&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "P5_MxlUqinA"
     }
   },
   {
@@ -515,7 +538,7 @@
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "Otosclerosis y Estapedectomía - Dr. Eduardo Hocsman",
-    "categorias": ["01"],
+    "categorias": ["01", "06"],
     "invitados": [
       {
         "apellido": "Hocsman",
@@ -532,15 +555,16 @@
       "youtube": "https://www.youtube.com/watch?v=48zaNdpkfrQ&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=24&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "48zaNdpkfrQ"
     }
   },
   {
     "numero": "24",
     "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "color": "yellow",
     "titulo": "Crisis, resiliencia y la historia de un padre",
-    "categorias": ["02", "04"],
+    "categorias": ["02", "04", "11", "13"],
     "invitados": [
       {
         "apellido": "Montalvo",
@@ -556,15 +580,16 @@
       "youtube": "https://www.youtube.com/watch?v=-ZUchSHWVCA&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=26&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "-ZUchSHWVCA"
     }
   },
   {
     "numero": "25",
     "portada": "/assets/episodios/numero.svg",
-    "color": "pink",
+    "color": "red",
     "titulo": "Vínculos, citas y parejas",
-    "categorias": ["02"],
+    "categorias": ["02", "13", "07"],
     "invitados": [
       {
         "apellido": "Buscio",
@@ -581,7 +606,8 @@
       "youtube": "https://www.youtube.com/watch?v=eSDmoFqKHTk&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=27&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "eSDmoFqKHTk"
     }
   },
   {
@@ -589,7 +615,7 @@
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "5G, celulares y tumores [importante] - Dr. Daniel Orfila",
-    "categorias": ["01"],
+    "categorias": ["01", "06"],
     "invitados": [
       {
         "apellido": "Orfila",
@@ -606,7 +632,8 @@
       "youtube": "https://www.youtube.com/watch?v=IkI8jq4i88Q&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=28&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "IkI8jq4i88Q"
     }
   },
   {
@@ -614,7 +641,7 @@
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "Consejos sobre ACÚFENOS o TINNITUS",
-    "categorias": ["01"],
+    "categorias": ["01", "12", "06"],
     "invitados": [
       {
         "apellido": "Dominguez",
@@ -636,7 +663,8 @@
       "youtube": "https://www.youtube.com/watch?v=_F_pc0Jddv4&list=PL4LhE_GfN8cMKKEIgU7KxNVdaUN0MsVhF&index=28&ab_channel=LucasAdlerstein%7C%40Hipoac%C3%BAsico",
       "apple": "",
       "amazon": "",
-      "google": ""
+      "google": "",
+      "embed": "_F_pc0Jddv4"
     }
   }
 ]
