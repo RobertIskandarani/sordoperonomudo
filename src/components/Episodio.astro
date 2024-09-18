@@ -12,8 +12,10 @@ const { color, descripcion, numero }: Props = Astro.props;
   href={`/episodios/${numero}`}
   class:list={[
     'w-80 rounded-[2rem] overflow-hidden',
-    { 'bg-[#E86985]': color === 'pink' },
-    { 'bg-[#83A9F0]': color === 'blue' },
+    { 'bg-[var(--pink)]': color === 'pink' },
+    { 'bg-[var(--blue)]': color === 'blue' },
+    { 'bg-[var(--yellow)]': color === 'yellow' },
+    { 'bg-[var(--red)]': color === 'red' },
   ]}
 >
   <slot />
