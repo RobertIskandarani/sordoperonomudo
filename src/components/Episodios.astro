@@ -20,8 +20,8 @@ const { episodios = episodiosTotales } = Astro.props;
       >
         <img
           width='100%'
-          src={episodio.portada}
-          alt={`Episodio ${episodio.numero}`}
+          src={`/assets/episodios/${episodio.numero}.svg`}
+          alt={`${episodio.numero}. ${episodio.titulo}`}
         />
       </Episodio>
     ))

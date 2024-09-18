@@ -1,6 +1,7 @@
 [
   {
     "numero": "00",
+    "keywords": "",
     "portada": "/assets/episodios/00.svg",
     "color": "blue",
     "titulo": "Trailer - Bienvenida al Podcast",
@@ -19,6 +20,7 @@
   },
   {
     "numero": "01",
+    "keywords": "",
     "portada": "/assets/episodios/01.svg",
     "color": "blue",
     "titulo": "Lo peor que me pasó en la vida es también lo mejor",
@@ -37,6 +39,7 @@
   },
   {
     "numero": "02",
+    "keywords": "",
     "portada": "/assets/episodios/02.svg",
     "color": "blue",
     "titulo": "Ansiedad e hipoacusia: La necesidad de controlar y saber qué me van a decir para no quedar como un tonto.",
@@ -55,6 +58,7 @@
   },
   {
     "numero": "03",
+    "keywords": "",
     "portada": "/assets/episodios/03.svg",
     "color": "blue",
     "titulo": "El Waze y la hipoacusia: pensar donde estamos, para ver cómo seguir!",
@@ -73,6 +77,7 @@
   },
   {
     "numero": "04",
+    "keywords": "",
     "portada": "/assets/episodios/04.svg",
     "color": "pink",
     "titulo": "Rehabilitación Auditiva (TAV)",
@@ -98,6 +103,7 @@
   },
   {
     "numero": "05",
+    "keywords": "",
     "portada": "/assets/episodios/05.svg",
     "color": "yellow",
     "titulo": "Vivir en guerra en Israel, siendo hipoacúsica",
@@ -123,6 +129,7 @@
   },
   {
     "numero": "06",
+    "keywords": "",
     "portada": "/assets/episodios/06.svg",
     "color": "blue",
     "titulo": "La distancia de la perfección sonora",
@@ -141,6 +148,7 @@
   },
   {
     "numero": "07",
+    "keywords": "",
     "portada": "/assets/episodios/07.svg",
     "color": "pink",
     "titulo": "Selección de Audífonos",
@@ -167,6 +175,7 @@
   },
   {
     "numero": "08",
+    "keywords": "",
     "portada": "/assets/episodios/08.svg",
     "color": "blue",
     "titulo": "Culpa y Aceptación - Biodescodificación",
@@ -193,6 +202,7 @@
   },
   {
     "numero": "09",
+    "keywords": "",
     "portada": "/assets/episodios/09.svg",
     "color": "pink",
     "titulo": "Calibración de audífonos",
@@ -219,6 +229,7 @@
   },
   {
     "numero": "10",
+    "keywords": "",
     "portada": "/assets/episodios/10.svg",
     "color": "yellow",
     "titulo": "'Mi hijo nació sordo'",
@@ -244,6 +255,7 @@
   },
   {
     "numero": "11",
+    "keywords": "",
     "portada": "/assets/episodios/11.svg",
     "color": "red",
     "titulo": "El día que Argentina ganó el mundial",
@@ -262,6 +274,7 @@
   },
   {
     "numero": "12",
+    "keywords": "",
     "portada": "/assets/episodios/12.svg",
     "color": "pink",
     "titulo": "Hipoacusia Súbita (o Sordera Súbita)",
@@ -288,6 +301,7 @@
   },
   {
     "numero": "13",
+    "keywords": "",
     "portada": "/assets/episodios/13.svg",
     "color": "pink",
     "titulo": "Detección temprana de hipoacusia: bebes, niños, jóvenes y adultos",
@@ -314,6 +328,7 @@
   },
   {
     "numero": "14",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "Hipoacusia Unilateral o Sordera Unilateral",
@@ -340,6 +355,7 @@
   },
   {
     "numero": "15",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "Acúfenos o Tinnitus",
@@ -371,6 +387,7 @@
   },
   {
     "numero": "16",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "blue",
     "titulo": "A la salida de un recital - Anécdota",
@@ -389,6 +406,7 @@
   },
   {
     "numero": "17",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "Colesteatoma - Dr. Daniel de la Torre Diamante",
@@ -415,6 +433,7 @@
   },
   {
     "numero": "18",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "yellow",
     "titulo": "Consejo de una madre",
@@ -440,6 +459,7 @@
   },
   {
     "numero": "19",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "Qué hacer si no funcionó el tratamiento de la hipoacusia súbita (o sordera súbita)",
@@ -466,6 +486,7 @@
   },
   {
     "numero": "20",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "red",
     "titulo": "Recuerdo de mi CIRUGÍA FALLIDA a los 16 años",
@@ -484,6 +505,7 @@
   },
   {
     "numero": "21",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "yellow",
     "titulo": "Nómades con implante coclear",
@@ -509,6 +531,7 @@
   },
   {
     "numero": "22",
+    "keywords": "",
     "portada": "/assets/episodios/22.svg",
     "color": "pink",
     "titulo": "Leyes en salud y discapacidad",
@@ -535,6 +558,7 @@
   },
   {
     "numero": "23",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "Otosclerosis y Estapedectomía - Dr. Eduardo Hocsman",
@@ -561,6 +585,7 @@
   },
   {
     "numero": "24",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "yellow",
     "titulo": "Crisis, resiliencia y la historia de un padre",
@@ -586,6 +611,7 @@
   },
   {
     "numero": "25",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "red",
     "titulo": "Vínculos, citas y parejas",
@@ -612,6 +638,7 @@
   },
   {
     "numero": "26",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "5G, celulares y tumores [importante] - Dr. Daniel Orfila",
@@ -638,6 +665,7 @@
   },
   {
     "numero": "27",
+    "keywords": "",
     "portada": "/assets/episodios/numero.svg",
     "color": "pink",
     "titulo": "Consejos sobre ACÚFENOS o TINNITUS",

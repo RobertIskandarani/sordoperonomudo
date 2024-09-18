@@ -18,7 +18,11 @@ export default function Header() {
   ) => {
     event.preventDefault();
     setOpenMenu(false);
-    window.location.href = `${window.location.origin}${link}`;
+    if (link.includes('#')) {
+      window.location.href = `${window.location.origin}${link}`;
+    } else {
+      window.open(link);
+    }
   };
 
   return (

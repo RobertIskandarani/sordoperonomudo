@@ -1,12 +1,15 @@
 ---
 import Comentario from './Comentario.astro';
-import Episodio from './Episodio.astro';
+import testimonios from '../data/Testimonios.json';
+const testimoniosToShow = testimonios
+  .sort(() => Math.random() - 0.5)
+  .slice(0, 6);
 ---
 
 <section
   class='w-full flex flex-col items-center justify-start gap-20 py-10 bg-[var(--background-color)]'
 >
-  <div class="flex flex-col gap-4">
+  <div class='flex flex-col gap-4'>
     <h1
       class='text-2xl text-center md:text-6xl text-black ft-title transition-all duration-300'
     >
@@ -18,24 +21,18 @@ import Episodio from './Episodio.astro';
       tampoco mudos, pero quizás “sordos”.
     </h2>
   </div>
-  <div class='w-[85%] flex flex-row gap-20 justify-center flex-wrap'>
-    <Comentario color='blue' nombre='Micaela'>
-      Esta es mi opinion sobre lo leido porque la verdad es que me gustaria que el podcast dure más.
-    </Comentario>
-    <Comentario color='red' nombre='Micaela'>
-      Esta es mi opinion sobre lo leido porque la verdad es que me gustaria que el podcast dure más.
-    </Comentario>
-    <Comentario color='yellow' nombre='Micaela'>
-      Esta es mi opinion sobre lo leido porque la verdad es que me gustaria que el podcast dure más.
-    </Comentario>
-    <Comentario color='blue' nombre='Micaela'>
-      Esta es mi opinion sobre lo leido porque la verdad es que me gustaria que el podcast dure más.
-    </Comentario>
-    <Comentario color='red' nombre='Micaela'>
-      Esta es mi opinion sobre lo leido porque la verdad es que me gustaria que el podcast dure más.
-    </Comentario>
-    <Comentario color='yellow' nombre='Micaela'>
-      Esta es mi opinion sobre lo leido porque la verdad es que me gustaria que el podcast dure más.
-    </Comentario>
+  <div
+    class='w-[85%] flex flex-row gap-10 justify-center items-center flex-wrap'
+  >
+    {
+      testimoniosToShow.map((testimonio, index) => (
+        <Comentario
+          color={['blue', 'red', 'yellow'][index % 3]}
+          nombre={testimonio.nombre}
+        >
+          {testimonio.mensaje}
+        </Comentario>
+      ))
+    }
   </div>
 </section>

@@ -16,6 +16,7 @@ export async function getStaticPaths() {
       invitados,
       links,
       transcripcion,
+      keywords,
     }) => {
       return {
         params: { numero },
@@ -26,6 +27,7 @@ export async function getStaticPaths() {
           invitados,
           links,
           transcripcion,
+          keywords,
         },
       };
     }
@@ -39,10 +41,14 @@ const {
   invitados,
   links,
   transcripcion,
+  keywords,
 } = Astro.props;
 ---
 
-<Layout title={`Episodio ${numero}`}>
+<Layout
+  title={`Ep ${numero}: ${titulo} ${invitados ? `- ${invitados.map((invitado) => `${invitado.nombre} ${invitado.apellido}`)}` : ''}`}
+  keywords={keywords}
+>
   <main class='w-full flex flex-col justify-start items-center py-5 gap-10'>
     <div
       class='w-full bg-[var(--blue)] flex justify-center items-center text-center py-10 text-xl md:text-4xl text-black transition-all duration-300'
@@ -58,7 +64,7 @@ const {
     {invitados?.map((invitado) => <Invitados invitado={invitado} />)}
     {
       transcripcion && (
-        <div class='w-[85%] flex flex-col gap-5 justify-start items-center'>
+        <div class='hidden'>
           <h1 class='ft-title text-3xl'>Transcripción del episodio</h1>
           <p>{transcripcion}</p>
         </div>
