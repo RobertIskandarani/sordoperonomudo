@@ -3,7 +3,7 @@ import episodios from '../data/Episodios.json';
 import Episodios from './Episodios.astro';
 
 const masEscuchados = episodios.filter((episodio) =>
-  ['02', '10', '12', '17', '22'].includes(episodio.numero)
+  ['01', '02', '04', '08', '12', '10', '15', '26', '03'].includes(episodio.numero)
 ).sort(() => Math.random() - 0.5).slice(0, 3);
 
 export const prerender = false;
