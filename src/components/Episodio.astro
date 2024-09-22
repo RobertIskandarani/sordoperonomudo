@@ -11,13 +11,22 @@ const { color, descripcion, numero }: Props = Astro.props;
 <a
   href={`/episodios/${numero}`}
   class:list={[
-    'w-80 rounded-[2rem] overflow-hidden',
+    'w-80 rounded-[2rem] overflow-hidden relative group',
     { 'bg-[var(--pink)]': color === 'pink' },
     { 'bg-[var(--blue)]': color === 'blue' },
     { 'bg-[var(--yellow)]': color === 'yellow' },
     { 'bg-[var(--red)]': color === 'red' },
   ]}
 >
+  <span
+    class:list={[
+      'group-hover:opacity-0 opacity-100 font-semibold transition-opacity duration-300 absolute top-2 right-2 px-4 py-2 drop-shadow-md rounded-full',
+      { 'bg-[var(--pink)]': color === 'pink' },
+      { 'bg-[var(--blue)]': color === 'blue' },
+      { 'bg-[var(--yellow)]': color === 'yellow' },
+      { 'bg-[var(--red)]': color === 'red' },
+    ]}>{numero}</span
+  >
   <slot />
   <h1
     class='px-3 py-3 text-center text-sm md:text-base h-24 transition-all duration-300'

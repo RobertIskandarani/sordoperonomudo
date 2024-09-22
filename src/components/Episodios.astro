@@ -1,7 +1,8 @@
 ---
 import Episodio from './Episodio.astro';
 import { type Episodio as EpisodioType } from '../types/Types';
-import episodiosTotales from '../data/Episodios.json'
+import episodiosTotales from '../data/Episodios.json';
+import { Image } from 'astro:assets';
 
 interface Props {
   episodios?: EpisodioType[];
@@ -18,8 +19,9 @@ const { episodios = episodiosTotales } = Astro.props;
         descripcion={episodio.titulo}
         numero={episodio.numero}
       >
-        <img
-          width='100%'
+        <Image
+          width={3000}
+          height={3000}
           src={`/assets/episodios/${episodio.numero}.svg`}
           alt={`${episodio.numero}. ${episodio.titulo}`}
         />
