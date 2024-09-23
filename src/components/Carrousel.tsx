@@ -20,7 +20,12 @@ export default function Carrousel({ items, className = '' }: Props) {
             className='w-3/4 rounded-full aspect-square flex justify-center items-center'
             style={{ backgroundColor: `${item.color}` }}
           >
-            <img src={item.imagen} alt={item.nombre} />
+            <img
+              src={item.imagen}
+              alt={item.nombre}
+              width={2000}
+              height={2000}
+            />
           </div>
           <h1 className='text-center'>{item.nombre}</h1>
           <span
