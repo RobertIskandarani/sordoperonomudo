@@ -33,9 +33,10 @@ export default function Header() {
           className='bg-white px-3 py-4 rounded-b-3xl shadow-lg h-full'
         >
           <img
-            className='invert'
             src='/assets/logotipo.svg'
             alt='Sordo pero no mudo'
+            width={120}
+            height='auto'
           />
         </a>
         <div className='lg:hidden bg-white shadow-lg px-4 py-6 rounded-lg'>
