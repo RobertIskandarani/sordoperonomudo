@@ -20,7 +20,12 @@ import AgradecimientosData from '../data/Agradecimientos.json';
   <div class='flex flex-wrap w-3/4 justify-center items-center gap-20'>
     {
       AgradecimientosData.map((agradecimiento) => (
-        <a href={agradecimiento.link} class='w-full sm:w-2/3 md:w-1/4'>
+        <a
+          href={agradecimiento.link}
+          referrerpolicy='no-referrer'
+          target='_blank'
+          class='w-full sm:w-2/3 md:w-1/4'
+        >
           {agradecimiento.imagen ? (
             <img src={agradecimiento.imagen} alt={agradecimiento.nombre} />
           ) : (
