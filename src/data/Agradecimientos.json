@@ -1,0 +1,39 @@
+[
+  {
+    "nombre": "Fundación Hellen Diller",
+    "imagen": "/assets/agradecimientos/HDFF.png",
+    "link": "https://www.dillerfoundation.org/"
+  },
+  {
+    "nombre": "El Ágora Studios",
+    "imagen": "/assets/agradecimientos/agora.png",
+    "link": "https://www.instagram.com/elagorastudios/"
+  },
+  {
+    "nombre": "Robert Iskandarani",
+    "link": "https://www.linkedin.com/in/robertiskandarani/",
+    "motivo": "Diseño y desarrollo de la página web",
+    "country": "Argentina",
+    "color": "blue"
+  },
+  {
+    "nombre": "Federico Rincón",
+    "link": "https://www.instagram.com/federincorincon/",
+    "motivo": "Musicalización de la intro",
+    "country": "Colombia",
+    "color": "pink"
+  },
+  {
+    "nombre": "Valentina Viba",
+    "link": "https://www.instagram.com/viba_valentina/",
+    "motivo": "Animación de la intro",
+    "country": "Venezuela",
+    "color": "red"
+  },
+  {
+    "nombre": "“Stuff That Now Exists”",
+    "link": "https://www.instagram.com/stuffthatnowexists/",
+    "motivo": "Portada",
+    "color": "yellow"
+  }
+]

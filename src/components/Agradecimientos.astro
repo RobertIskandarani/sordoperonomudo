@@ -1,0 +1,55 @@
+---
+import AgradecimientosData from '../data/Agradecimientos.json';
+---
+
+<section
+  class='w-full flex flex-col items-center justify-start gap-20 py-10 bg-[var(--background-color)]'
+>
+  <div class='flex flex-col gap-4'>
+    <h1
+      class='text-2xl text-center md:text-6xl text-black ft-title transition-all duration-300'
+    >
+      Agradecimientos
+    </h1>
+    <h2
+      class='text-sm text-center md:text-2xl text-black ft-title transition-all duration-300'
+    >
+      a quienes colaboran
+    </h2>
+  </div>
+  <div class='flex flex-wrap w-3/4 justify-center items-center gap-20'>
+    {
+      AgradecimientosData.map((agradecimiento) => (
+        <a href={agradecimiento.link} class='w-full sm:w-2/3 md:w-1/4'>
+          {agradecimiento.imagen ? (
+            <img src={agradecimiento.imagen} alt={agradecimiento.nombre} />
+          ) : (
+            <article
+              class:list={[
+                'p-4 rounded-xl border-2',
+                { 'border-[var(--blue)]': agradecimiento.color === 'blue' },
+                { 'border-[var(--red)]': agradecimiento.color === 'red' },
+                { 'border-[var(--yellow)]': agradecimiento.color === 'yellow' },
+                { 'border-[var(--pink)]': agradecimiento.color === 'pink' },
+              ]}
+            >
+              <div class='w-full flex justify-between items-center'>
+                <h1 class='font-bold'>{agradecimiento.nombre}</h1>
+                <span>
+                  {agradecimiento.country === 'Argentina'
+                    ? '🇦🇷'
+                    : agradecimiento.country === 'Colombia'
+                      ? '🇨🇴'
+                      : agradecimiento.country === 'Venezuela'
+                        ? '🇻🇪'
+                        : ''}
+                </span>
+              </div>
+              <p class='font-light'>{agradecimiento.motivo}</p>
+            </article>
+          )}
+        </a>
+      ))
+    }
+  </div>
+</section>
