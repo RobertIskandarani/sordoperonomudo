@@ -3,7 +3,7 @@
     "id": "01",
     "nombre": "Ciencia",
     "slug": "ciencia",
-    "imagen": "/assets/categorias/ciencia.svg",
+    "imagen": "/assets/categorias/ciencia.png",
     "color": "#E86985",
     "otrasCategorias": [
       {
@@ -24,7 +24,7 @@
     "id": "02",
     "nombre": "Reflexiones",
     "slug": "reflexiones",
-    "imagen": "/assets/categorias/reflexion.svg",
+    "imagen": "/assets/categorias/reflexion.png",
     "color": "#83A9F0",
     "otrasCategorias": [
       {
@@ -45,7 +45,7 @@
     "id": "03",
     "nombre": "Experiencias",
     "slug": "experiencias",
-    "imagen": "/assets/categorias/experiencias.svg",
+    "imagen": "/assets/categorias/experiencias.png",
     "color": "#F0532E",
     "otrasCategorias": [
       {
@@ -63,7 +63,7 @@
     "id": "04",
     "nombre": "Historias de personas",
     "slug": "historias",
-    "imagen": "/assets/categorias/historias.svg",
+    "imagen": "/assets/categorias/historias.png",
     "color": "#F8B600",
     "otrasCategorias": [
       {
@@ -87,7 +87,7 @@
     "id": "05",
     "nombre": "Implante coclear",
     "slug": "implante-coclear",
-    "imagen": "/assets/categorias/implante-coclear.svg",
+    "imagen": "/assets/categorias/implante-coclear.png",
     "color": "#E86985",
     "otrasCategorias": [
       {
@@ -108,7 +108,7 @@
     "id": "06",
     "nombre": "Patologías",
     "slug": "patologias",
-    "imagen": "/assets/categorias/patologias.svg",
+    "imagen": "/assets/categorias/patologias.png",
     "color": "#83A9F0",
     "otrasCategorias": [
       {
@@ -129,7 +129,7 @@
     "id": "07",
     "nombre": "Para disfrutar de fondo",
     "slug": "disfrutar-de-fondo",
-    "imagen": "/assets/categorias/de-fondo.svg",
+    "imagen": "/assets/categorias/de-fondo.png",
     "color": "#F0532E",
     "otrasCategorias": [
       {
@@ -144,7 +144,7 @@
     "id": "08",
     "nombre": "15 minutos",
     "slug": "15-minutos",
-    "imagen": "/assets/categorias/15-minutos.svg",
+    "imagen": "/assets/categorias/15-minutos.png",
     "color": "#F8B600",
     "otrasCategorias": [
       {
@@ -165,7 +165,7 @@
     "id": "09",
     "nombre": "Audífonos",
     "slug": "audifonos",
-    "imagen": "/assets/categorias/audifonos.svg",
+    "imagen": "/assets/categorias/audifonos.png",
     "color": "#E86985",
     "otrasCategorias": [
       {
@@ -183,7 +183,7 @@
     "id": "10",
     "nombre": "Personas con hipoacusia",
     "slug": "personas-con-hipoacusia",
-    "imagen": "/assets/categorias/hipoacusicos.svg",
+    "imagen": "/assets/categorias/hipoacusicos.png",
     "color": "#83A9F0",
     "otrasCategorias": [
       {
@@ -204,7 +204,7 @@
     "id": "11",
     "nombre": "Historias de padres y madres",
     "slug": "historias-de-padres-y-madres",
-    "imagen": "/assets/categorias/padres-madres.svg",
+    "imagen": "/assets/categorias/padres-madres.png",
     "color": "#F0532E",
     "otrasCategorias": [
       {

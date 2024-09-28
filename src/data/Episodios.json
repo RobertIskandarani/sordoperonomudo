@@ -2,7 +2,7 @@
   {
     "numero": "00",
     "keywords": "",
-    "portada": "/assets/episodios/00.svg",
+    "portada": "/assets/episodios/00.png",
     "color": "blue",
     "titulo": "Trailer - Bienvenida al Podcast",
     "categorias": ["02", "07", "08"],
@@ -21,7 +21,7 @@
   {
     "numero": "01",
     "keywords": "",
-    "portada": "/assets/episodios/01.svg",
+    "portada": "/assets/episodios/01.png",
     "color": "blue",
     "titulo": "Lo peor que me pasó en la vida es también lo mejor",
     "categorias": ["02", "03", "08", "13"],
@@ -40,7 +40,7 @@
   {
     "numero": "02",
     "keywords": "",
-    "portada": "/assets/episodios/02.svg",
+    "portada": "/assets/episodios/02.png",
     "color": "blue",
     "titulo": "Ansiedad e hipoacusia: La necesidad de controlar y saber qué me van a decir para no quedar como un tonto.",
     "categorias": ["02", "03", "08", "13"],
@@ -59,7 +59,7 @@
   {
     "numero": "03",
     "keywords": "",
-    "portada": "/assets/episodios/03.svg",
+    "portada": "/assets/episodios/03.png",
     "color": "blue",
     "titulo": "El Waze y la hipoacusia: pensar donde estamos, para ver cómo seguir!",
     "categorias": ["02", "03", "04", "08"],
@@ -78,7 +78,7 @@
   {
     "numero": "04",
     "keywords": "",
-    "portada": "/assets/episodios/04.svg",
+    "portada": "/assets/episodios/04.png",
     "color": "pink",
     "titulo": "Rehabilitación Auditiva (TAV)",
     "categorias": ["01", "05", "12"],
@@ -86,7 +86,7 @@
       {
         "apellido": "Furmanski",
         "nombre": "Hilda",
-        "imagen": "/assets/invitados/hilda-furmanski.svg",
+        "imagen": "/assets/invitados/hilda-furmanski.png",
         "descripcion": "Fonoaudióloga, especialista en rehabilitación auditiva y terapia auditivo verbal (TAV). Presidente de la Asociación Argentina de Audiología (ASARA)."
       }
     ],
@@ -104,7 +104,7 @@
   {
     "numero": "05",
     "keywords": "",
-    "portada": "/assets/episodios/05.svg",
+    "portada": "/assets/episodios/05.png",
     "color": "yellow",
     "titulo": "Vivir en guerra en Israel, siendo hipoacúsica",
     "categorias": ["04", "07", "10"],
@@ -112,7 +112,7 @@
       {
         "apellido": "S",
         "nombre": "Tamy",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Nacida en Buenos Aires, usuaria de implante de conducción ósea. Hipoacusia causada por colesteatomas."
       }
     ],
@@ -130,7 +130,7 @@
   {
     "numero": "06",
     "keywords": "",
-    "portada": "/assets/episodios/06.svg",
+    "portada": "/assets/episodios/06.png",
     "color": "blue",
     "titulo": "La distancia de la perfección sonora",
     "categorias": ["02", "08"],
@@ -149,7 +149,7 @@
   {
     "numero": "07",
     "keywords": "",
-    "portada": "/assets/episodios/07.svg",
+    "portada": "/assets/episodios/07.png",
     "color": "pink",
     "titulo": "Selección de Audífonos",
     "categorias": ["01", "09", "12"],
@@ -157,7 +157,7 @@
       {
         "apellido": "Fanelli",
         "nombre": "Karina",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "prefijo": "Lic.",
         "descripcion": "Licenciada en Fonoaudiología, especialista en Audiología, docente de la licenciatura en fonoaudiología en UBA y USAL."
       }
@@ -176,7 +176,7 @@
   {
     "numero": "08",
     "keywords": "",
-    "portada": "/assets/episodios/08.svg",
+    "portada": "/assets/episodios/08.png",
     "color": "blue",
     "titulo": "Culpa y Aceptación - Biodescodificación",
     "categorias": ["01", "02", "13"],
@@ -184,7 +184,7 @@
       {
         "apellido": "Vazquez Kunz",
         "nombre": "Pablo",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "prefijo": "Lic.",
         "descripcion": "Lic. en Psicología y Especialista en Biodescodificación. Autor de libros de Biodescodificación®, Crecimiento Personal y Espiritual del mundo en habla hispana."
       }
@@ -203,7 +203,7 @@
   {
     "numero": "09",
     "keywords": "",
-    "portada": "/assets/episodios/09.svg",
+    "portada": "/assets/episodios/09.png",
     "color": "pink",
     "titulo": "Calibración de audífonos",
     "categorias": ["01", "09"],
@@ -211,7 +211,7 @@
       {
         "apellido": "Fanelli",
         "nombre": "Karina",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "prefijo": "Lic.",
         "descripcion": "Licenciada en Fonoaudiología, especialista en Audiología, docente de la licenciatura en fonoaudiología en la UBA y USAL."
       }
@@ -230,7 +230,7 @@
   {
     "numero": "10",
     "keywords": "",
-    "portada": "/assets/episodios/10.svg",
+    "portada": "/assets/episodios/10.png",
     "color": "yellow",
     "titulo": "'Mi hijo nació sordo'",
     "categorias": ["04", "11", "09", "07", "05"],
@@ -238,7 +238,7 @@
       {
         "apellido": "Mamá de Luqui",
         "nombre": "Paula",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Luqui nació con hipoacusia bilateral profunda, es usuario de implante coclear bilateral."
       }
     ],
@@ -256,7 +256,7 @@
   {
     "numero": "11",
     "keywords": "",
-    "portada": "/assets/episodios/11.svg",
+    "portada": "/assets/episodios/11.png",
     "color": "red",
     "titulo": "El día que Argentina ganó el mundial",
     "categorias": ["03", "02", "05", "07", "13", "08"],
@@ -275,7 +275,7 @@
   {
     "numero": "12",
     "keywords": "",
-    "portada": "/assets/episodios/12.svg",
+    "portada": "/assets/episodios/12.png",
     "color": "pink",
     "titulo": "Hipoacusia Súbita (o Sordera Súbita)",
     "categorias": ["01", "12", "06"],
@@ -284,7 +284,7 @@
         "apellido": "Ontivero",
         "nombre": "Paula",
         "prefijo": "Dra.",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Médica otorrinolaringóloga, especialista en cirugía de oído e implantes cocleares."
       }
     ],
@@ -302,7 +302,7 @@
   {
     "numero": "13",
     "keywords": "",
-    "portada": "/assets/episodios/13.svg",
+    "portada": "/assets/episodios/13.png",
     "color": "pink",
     "titulo": "Detección temprana de hipoacusia: bebes, niños, jóvenes y adultos",
     "categorias": ["01"],
@@ -311,7 +311,7 @@
         "apellido": "Fanelli",
         "nombre": "Karina",
         "prefijo": "Lic.",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Licenciada en Fonoaudiología, especialista en Audiología, docente de la licenciatura en fonoaudiología en la UBA y USAL."
       }
     ],
@@ -329,7 +329,7 @@
   {
     "numero": "14",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "pink",
     "titulo": "Hipoacusia Unilateral o Sordera Unilateral",
     "categorias": ["01", "04", "10", "06"],
@@ -338,7 +338,7 @@
         "apellido": "Alcalá Rueda",
         "nombre": "Ignacio",
         "prefijo": "Dr.",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Médico Otorrinolaringólogo de Madrid, trabaja en la salud pública y difunde contenido médico en redes sociales."
       }
     ],
@@ -356,7 +356,7 @@
   {
     "numero": "15",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "pink",
     "titulo": "Acúfenos o Tinnitus",
     "categorias": ["01", "12", "06"],
@@ -364,13 +364,13 @@
       {
         "apellido": "Dominguez",
         "nombre": "Susana",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": ""
       },
       {
         "apellido": "Sitzer",
         "nombre": "Yanina",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": ""
       }
     ],
@@ -388,7 +388,7 @@
   {
     "numero": "16",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "blue",
     "titulo": "A la salida de un recital - Anécdota",
     "categorias": ["03", "02", "08", "10", "07"],
@@ -407,7 +407,7 @@
   {
     "numero": "17",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "pink",
     "titulo": "Colesteatoma - Dr. Daniel de la Torre Diamante",
     "categorias": ["01", "06"],
@@ -416,7 +416,7 @@
         "apellido": "Diamante",
         "nombre": "Daniel de la Torre",
         "prefijo": "Dr.",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Médico Otorrinolaringólogo, cirujano de oído, docente de la Universidad de El Salvador."
       }
     ],
@@ -434,7 +434,7 @@
   {
     "numero": "18",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "yellow",
     "titulo": "Consejo de una madre",
     "categorias": ["04", "11"],
@@ -442,7 +442,7 @@
       {
         "apellido": "Mamá de Luqui",
         "nombre": "Paula",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Pau es la mamá de Luqui, nacido con hipoacusia bilateral profunda y usuario de implante coclear de ambos oidos."
       }
     ],
@@ -460,7 +460,7 @@
   {
     "numero": "19",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "pink",
     "titulo": "Qué hacer si no funcionó el tratamiento de la hipoacusia súbita (o sordera súbita)",
     "categorias": ["01", "05"],
@@ -469,7 +469,7 @@
         "apellido": "Ontivero",
         "nombre": "Paula",
         "prefijo": "Dra.",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Médica otorrinolaringóloga, especialista en cirugía de oído e implantes cocleares."
       }
     ],
@@ -487,7 +487,7 @@
   {
     "numero": "20",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "red",
     "titulo": "Recuerdo de mi CIRUGÍA FALLIDA a los 16 años",
     "categorias": ["02", "03", "10"],
@@ -506,7 +506,7 @@
   {
     "numero": "21",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "yellow",
     "titulo": "Nómades con implante coclear",
     "categorias": ["04", "11", "07"],
@@ -514,7 +514,7 @@
       {
         "apellido": "y Nacho",
         "nombre": "Gise",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Padre y madre de Jaz, nacida prematura y desarrolló ototoxicidad a los remedios en neonatología, hoy es usuaria de implante coclear"
       }
     ],
@@ -532,7 +532,7 @@
   {
     "numero": "22",
     "keywords": "",
-    "portada": "/assets/episodios/22.svg",
+    "portada": "/assets/episodios/22.png",
     "color": "pink",
     "titulo": "Leyes en salud y discapacidad",
     "categorias": ["02", "01"],
@@ -541,7 +541,7 @@
         "apellido": "Torres Lopez",
         "nombre": "Juan Bautista",
         "prefijo": "Dr.",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Abogado de la Universidad de Buenos Aires y Periodista. Columnista en Infobae."
       }
     ],
@@ -559,7 +559,7 @@
   {
     "numero": "23",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "pink",
     "titulo": "Otosclerosis y Estapedectomía - Dr. Eduardo Hocsman",
     "categorias": ["01", "06"],
@@ -567,7 +567,7 @@
       {
         "apellido": "Hocsman",
         "nombre": "Eduardo",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Médico cirujano otorrinolaringólogo, especialista en patología de oído.",
         "prefijo": "Dr."
       }
@@ -586,7 +586,7 @@
   {
     "numero": "24",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "yellow",
     "titulo": "Crisis, resiliencia y la historia de un padre",
     "categorias": ["02", "04", "11", "13"],
@@ -594,7 +594,7 @@
       {
         "apellido": "Montalvo",
         "nombre": "David",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Conferencista, tanatólogo, coach de cambio y resiliencia, padre de una niña hipoacúsica."
       }
     ],
@@ -612,7 +612,7 @@
   {
     "numero": "25",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "red",
     "titulo": "Vínculos, citas y parejas",
     "categorias": ["02", "13", "07"],
@@ -621,7 +621,7 @@
         "apellido": "Buscio",
         "nombre": "Sol",
         "prefijo": "Lic.",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": "Psicóloga, especialista en vínculos y ansiedad."
       }
     ],
@@ -639,7 +639,7 @@
   {
     "numero": "26",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "pink",
     "titulo": "5G, celulares y tumores [importante] - Dr. Daniel Orfila",
     "categorias": ["01", "06"],
@@ -647,7 +647,7 @@
       {
         "apellido": "Orfila",
         "nombre": "Daniel",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "prefijo": "Dr.",
         "descripcion": "Médico cirujano otorrinolaringólogo. Especialista en tumor de la vía auditiva, miembro de CIPRACEM."
       }
@@ -666,7 +666,7 @@
   {
     "numero": "27",
     "keywords": "",
-    "portada": "/assets/episodios/numero.svg",
+    "portada": "/assets/episodios/numero.png",
     "color": "pink",
     "titulo": "Consejos sobre ACÚFENOS o TINNITUS",
     "categorias": ["01", "12", "06"],
@@ -674,13 +674,13 @@
       {
         "apellido": "Dominguez",
         "nombre": "Susana",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": ""
       },
       {
         "apellido": "Sitzer",
         "nombre": "Yanina",
-        "imagen": "/assets/invitados/nombre-apellido.svg",
+        "imagen": "/assets/invitados/nombre-apellido.png",
         "descripcion": ""
       }
     ],

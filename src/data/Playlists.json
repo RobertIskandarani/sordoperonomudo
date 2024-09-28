@@ -3,7 +3,7 @@
     "id": "00",
     "nombre": "Tengo una pérdida auditiva",
     "slug": "tengo-hipoacusia",
-    "imagen": "/assets/playlists/reproduccion1.svg",
+    "imagen": "/assets/playlists/reproduccion1.png",
     "descripcion": "Yo también, y te doy la bienvenida a este hermoso podcast y comunidad. Te invito a escuchar o leer el episodio que más te guste, sobre la hipoacusia: algo que muy pocos entienden pero que muuuchos vivimos. Acá te dejo algunos recomendados para empezar:",
     "episodios": ["01", "02", "15",  "25", "03", "11", "08", "16", "22", "24"]
   },
@@ -11,7 +11,7 @@
     "id": "01",
     "nombre": "No puedo aceptar mi hipoacusia",
     "slug": "no-acepto-mi-hipoacusia",
-    "imagen": "/assets/playlists/reproduccion2.svg",
+    "imagen": "/assets/playlists/reproduccion2.png",
     "descripcion": "Una vez escuché una frase que decia: 'jugamos la vida con las cartas que nos tocan' y no podemos estar esperando que las cosas sean diferentes, cuando no es una decisión... nadie de nosotros eligió perder la audición, pero si todos nosotros tenemos que vivir con eso todos los días de nuestras vidas... solo nosotros lo entendemos. Acá te recomiendo algunos episodios para escuchar:",
     "episodios": ["01", "02", "24", "08", "25", "20"]
   },
@@ -19,7 +19,7 @@
     "id": "02",
     "nombre": "Mi hijo nació sordo",
     "slug": "mi-hijo-nacio-sordo",
-    "imagen": "/assets/playlists/reproduccion3.svg",
+    "imagen": "/assets/playlists/reproduccion3.png",
     "descripcion": "Siempre pienso que yo perdí la audición siendo consciente y pudiendo tomar decisiones sobre mi vida y como iba sintiendo y viviendo... pero un padre o madre no pueden hacerlo, simplemente interpretar y a veces ni siquiera... una posición MUY dicil, así que acá te dejo episodios recomendados para escuchar si tu hijo nació con una pérdida auditiva. Además te invito a buscar en Instagram el link al grupo de padres.",
     "episodios": ["10", "01", "24", "22", "04", "21", "08", "07", "18"]
   },
@@ -27,7 +27,7 @@
     "id": "03",
     "nombre": "Tuve una hipoacusia súbita",
     "slug": "tuve-una-hipoacusia-subita",
-    "imagen": "/assets/playlists/reproduccion4.svg",
+    "imagen": "/assets/playlists/reproduccion4.png",
     "descripcion": "Quizás se te cayó el mundo abajo, el trabajo, tus vínculos... te retrajiste socialmente y no sabes donde estás parado, qué hacer ni para donde ir. No hay una fórmula mágica, pero te dejo algunos episodios que pueden acompañarte y darte un poco de información variada:",
     "episodios": ["12", "14", "01", "02", "08", "15", "22", "28", "19"]
   }

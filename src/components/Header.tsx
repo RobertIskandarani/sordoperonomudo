@@ -33,7 +33,7 @@ export default function Header() {
           className='bg-white px-3 py-4 rounded-b-3xl shadow-lg h-full'
         >
           <img
-            src='/assets/logotipo.svg'
+            src='/assets/logotipo.png'
             alt='Sordo pero no mudo'
             width={120}
             height='auto'
