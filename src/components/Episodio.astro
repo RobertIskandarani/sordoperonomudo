@@ -28,9 +28,9 @@ const { color, descripcion, numero }: Props = Astro.props;
     ]}>{numero}</span
   >
   <slot />
-  <h1
-    class='px-3 py-3 text-center text-sm md:text-base h-24 transition-all duration-300'
+  <h4
+    class='px-3 py-3 text-center text-sm md:text-base h-24 transition-all duration-300 font-bold'
   >
     {descripcion}
-  </h1>
+  </h4>
 </a>
